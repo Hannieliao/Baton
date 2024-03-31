@@ -4,16 +4,17 @@ We provide an example of how you can Aligning Text-to-Audio Model with any of yo
 
 * `configs`: Configuration files for training and evaluation.
 * `data`: The audio for human annotation
-    * `2label_Integrity_HD_Audio`: Audio of 2 label prompt annotated by human
-    * `2label_Integrity_RD_Audio`: Audio of 2 label prompt annotated by reward model
-    * `3label_Temporal_HD_Audio`: Audio of 3 label prompt annotated by human
-    * `3label_Temporal_HD_Audio`: Audio of 3 label prompt annotated by reward model
+    * `Audio`:
+        * `2label_Integrity_HD_Audio`: Audio of 2 label prompt annotated by human
+        * `2label_Integrity_RD_Audio`: Audio of 2 label prompt annotated by reward model
+        * `3label_Temporal_HD_Audio`: Audio of 3 label prompt annotated by human
+        * `3label_Temporal_HD_Audio`: Audio of 3 label prompt annotated by reward model
+    * `HA`: Human annotation
+    * `RA`: Reward model annotation
 * `scripts`: Helper scripts
-    * `data_preprocess`: Dataset downloading and pre-processing
     * `finetune.sh`: Fine-tuning t2a Model
     * `inference_finetune.sh`: Inference using t2a model after fine-tuning
 * `src`: Source code
-    * `data`: Human annotation for text-audio pairs
     * `eval`: Quantitative evaluation (FAD/FD/IS/KL/CLAP)
     * `rewardmodel`: Reward model definitions
         * `RM_inference_2label_BCE.py`: Inference using reward model
@@ -60,6 +61,17 @@ git clone https://github.com/declare-lab/tango.git
 cd tango
 mkdir ckpt
 download checkpoint [Tango-Full-FT-AudioCaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) and put it under ckpt
+```
+
+```bash
+put 'finetune.py' under ./tango
+modify the 'models.py' line 207
+from:
+   loss = loss.mean()
+to:
+   loss1 = loss
+   loss2 = loss.mean
+return loss1, loss2 
 ```
 
 #### Dataset
