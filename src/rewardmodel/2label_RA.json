@@ -1,0 +1,4112 @@
+[
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0327_An air horn or truck horn sounds, amidst the rustling of leaves_0.wav",
+        "pre_score": [
+            0.1812187284231186
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0330_Livestock and farm animals make noise, with the buzzing of a fly_1.wav",
+        "pre_score": [
+            0.7595117092132568
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0367_A car drives by, mixed with traffic and roadway noise_1.wav",
+        "pre_score": [
+            0.1711970418691635
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0362_A sliding door moves, followed by the bark of a dog_4.wav",
+        "pre_score": [
+            0.7617111802101135
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0264_A sailboat sails through the water, and then a frog croaks_1.wav",
+        "pre_score": [
+            0.3823341131210327
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0365_A sound effect plays, followed by the strumming of an acoustic guitar_2.wav",
+        "pre_score": [
+            0.9999685287475586
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0343_A siren wails, and then the sound of a bathtub filling is heard_1.wav",
+        "pre_score": [
+            0.027797209098935127
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0399_People chatter inside a large room or hall_2.wav",
+        "pre_score": [
+            0.023855693638324738
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0299_Water trickles and dribbles, followed by the sound of a propeller or airscrew_2.wav",
+        "pre_score": [
+            0.8582585453987122
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0385_A fly buzzes around, and then the sound of a race car or auto racing is heard_1.wav",
+        "pre_score": [
+            0.3546791970729828
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0370_A heavy engine rumbles lowly, accompanied by the sound of a vehicle_4.wav",
+        "pre_score": [
+            0.11976147443056107
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0336_Snoring sounds blend with environmental noise_0.wav",
+        "pre_score": [
+            0.9488378167152405
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0395_Chickens and roosters cluck and crow, among other livestock and farm animals_0.wav",
+        "pre_score": [
+            0.3419512212276459
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0271_A violin plays a melody, followed by the splash and splatter of water_1.wav",
+        "pre_score": [
+            1.0
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0356_Hubbub and speech noise are heard, mixed with the sound of rain_2.wav",
+        "pre_score": [
+            0.19836512207984924
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0359_Fireworks explode in the sky, met with cheers from the crowd_1.wav",
+        "pre_score": [
+            0.8439840078353882
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0386_A sliding door moves, followed by the siren of a fire engine or fire truck_1.wav",
+        "pre_score": [
+            0.5459160208702087
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0364_Vibrations are felt, accompanied by a child speaking_2.wav",
+        "pre_score": [
+            0.6191256642341614
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0329_A drum beats rhythmically, accompanied by the quack of a duck_0.wav",
+        "pre_score": [
+            0.005495926830917597
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0288_A narration or monologue plays, accompanied by a speech synthesizer_2.wav",
+        "pre_score": [
+            0.2291092723608017
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0332_Pink noise fills the room, interrupted by a ringtone_4.wav",
+        "pre_score": [
+            0.9939246773719788
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0293_Conversation takes place, accompanied by the revving of a motorcycle_0.wav",
+        "pre_score": [
+            0.27027013897895813
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0275_A telephone rings, accompanied by the rumble of a heavy engine_2.wav",
+        "pre_score": [
+            0.5201209187507629
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0396_A hissing sound is heard, followed by the ringing of a bicycle bell_2.wav",
+        "pre_score": [
+            0.18789076805114746
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0289_A sink fills or washes, and then the sound of a subway or metro underground_0.wav",
+        "pre_score": [
+            0.7830396294593811
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0365_A sound effect plays, followed by the strumming of an acoustic guitar_3.wav",
+        "pre_score": [
+            0.9859707951545715
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0287_Water taps open, and then the sound of a bathtub filling or washing_2.wav",
+        "pre_score": [
+            0.35633835196495056
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0300_A dog barks, followed by the sound of someone burping_4.wav",
+        "pre_score": [
+            0.8640744686126709
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0318_Fireworks light up the sky in a rural or natural setting_0.wav",
+        "pre_score": [
+            0.006960406433790922
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0388_Sheep bleat, accompanied by the sizzling of food_4.wav",
+        "pre_score": [
+            0.826456606388092
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0332_Pink noise fills the room, interrupted by a ringtone_3.wav",
+        "pre_score": [
+            0.449288547039032
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0327_An air horn or truck horn sounds, amidst the rustling of leaves_2.wav",
+        "pre_score": [
+            0.0031370329670608044
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0395_Chickens and roosters cluck and crow, among other livestock and farm animals_4.wav",
+        "pre_score": [
+            0.9459200501441956
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0290_Inside a large room or hall, the sound of a bicycle is heard_4.wav",
+        "pre_score": [
+            0.1414852887392044
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0274_A clock ticks with a 'tick-tock', and then the sound of a waterfall is heard_4.wav",
+        "pre_score": [
+            0.7380660176277161
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0365_A sound effect plays, followed by the strumming of an acoustic guitar_4.wav",
+        "pre_score": [
+            0.997391939163208
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0373_Whistling is heard, followed by the sound of a bus_2.wav",
+        "pre_score": [
+            0.8706528544425964
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0311_The clip-clop of hooves is accompanied by the chirping and tweeting of birds_4.wav",
+        "pre_score": [
+            0.410826176404953
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0391_A sound effect plays, followed by the tick-tock of a clock_0.wav",
+        "pre_score": [
+            0.9969508647918701
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0316_Frogs croak, and then cheering is heard in the background_3.wav",
+        "pre_score": [
+            0.7944314479827881
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0306_Silence pervades, then is broken by a round of applause_3.wav",
+        "pre_score": [
+            0.9913320541381836
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0304_A dog whimpers softly amidst the noise of a crowd_4.wav",
+        "pre_score": [
+            0.007609555963426828
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0347_Rustling leaves are heard, with the ocean in the background_4.wav",
+        "pre_score": [
+            0.5774961113929749
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0331_A cooing sound is heard, followed by a fart_4.wav",
+        "pre_score": [
+            0.9781407117843628
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0275_A telephone rings, accompanied by the rumble of a heavy engine_1.wav",
+        "pre_score": [
+            0.8690545558929443
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0336_Snoring sounds blend with environmental noise_2.wav",
+        "pre_score": [
+            0.9999358654022217
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0281_Laughter and chuckles are heard, and then the sound of crying and sobbing_2.wav",
+        "pre_score": [
+            0.2791835367679596
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0320_A sound effect plays, followed by a beep or bleep_4.wav",
+        "pre_score": [
+            0.5385488867759705
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0393_Screaming is heard, followed by the sloshing of water_3.wav",
+        "pre_score": [
+            0.9519264101982117
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0276_Gunfire echoes, and then the babbling of a stream is heard_2.wav",
+        "pre_score": [
+            0.6216358542442322
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0305_Fireworks explode in the sky, while someone types on a computer keyboard_3.wav",
+        "pre_score": [
+            0.019853150472044945
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0309_A whooshing sound is heard, followed by a child speaking_0.wav",
+        "pre_score": [
+            0.5390457510948181
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0278_Traffic and roadway noise mix with the sound of snoring_2.wav",
+        "pre_score": [
+            0.8046039938926697
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0386_A sliding door moves, followed by the siren of a fire engine or fire truck_3.wav",
+        "pre_score": [
+            0.2682628929615021
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0349_A hissing sound is heard, and then a sliding door moves_2.wav",
+        "pre_score": [
+            0.055968206375837326
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0337_An air horn or truck horn sounds, followed by the trickle of water_1.wav",
+        "pre_score": [
+            0.8012288212776184
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0376_A fart sound is heard, followed by a sound effect_3.wav",
+        "pre_score": [
+            0.897356390953064
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0398_Urban or manmade sounds are heard, along with the clip-clop of hooves_2.wav",
+        "pre_score": [
+            0.25146806240081787
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0379_Hubbub and speech noise fill the air, followed by a woman speaking_0.wav",
+        "pre_score": [
+            0.22545860707759857
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0368_A car horn honks, followed by the squeal of tires_0.wav",
+        "pre_score": [
+            0.00554313138127327
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0296_Fireworks explode, accompanied by the chirping and tweeting of birds_1.wav",
+        "pre_score": [
+            0.002839834662154317
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0326_A fart sound is heard, followed by the melody of a violin_2.wav",
+        "pre_score": [
+            0.9817554950714111
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0315_Tires skid, followed by the sound of video game music_3.wav",
+        "pre_score": [
+            0.999729573726654
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0318_Fireworks light up the sky in a rural or natural setting_4.wav",
+        "pre_score": [
+            0.00034018210135400295
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0306_Silence pervades, then is broken by a round of applause_2.wav",
+        "pre_score": [
+            0.9783077239990234
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0330_Livestock and farm animals make noise, with the buzzing of a fly_4.wav",
+        "pre_score": [
+            0.5171281695365906
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0362_A sliding door moves, followed by the bark of a dog_0.wav",
+        "pre_score": [
+            0.14200006425380707
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0315_Tires skid, followed by the sound of video game music_0.wav",
+        "pre_score": [
+            0.9681808948516846
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0338_Water sloshes around, with bees and wasps buzzing nearby_1.wav",
+        "pre_score": [
+            0.9300277233123779
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0270_A toilet flushes, and then insects buzz around_1.wav",
+        "pre_score": [
+            0.8719645738601685
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0388_Sheep bleat, accompanied by the sizzling of food_2.wav",
+        "pre_score": [
+            0.9356293082237244
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0300_A dog barks, followed by the sound of someone burping_1.wav",
+        "pre_score": [
+            0.7563029527664185
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0342_Fireworks go off, followed by rhythm and blues music_2.wav",
+        "pre_score": [
+            0.033684760332107544
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0345_An aircraft engine roars, mixed with soundtrack music_4.wav",
+        "pre_score": [
+            0.3776620328426361
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0310_Animal sounds are heard, along with the hissing of steam_2.wav",
+        "pre_score": [
+            0.9924773573875427
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0267_A tire squeals sharply, and then a dog barks_4.wav",
+        "pre_score": [
+            0.11637043207883835
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0394_A bird sings or chirps, accompanied by video game music_2.wav",
+        "pre_score": [
+            0.9984332919120789
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0334_A bus passes by, followed by the sound of a sliding door_4.wav",
+        "pre_score": [
+            0.04230448603630066
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0271_A violin plays a melody, followed by the splash and splatter of water_4.wav",
+        "pre_score": [
+            0.9999971389770508
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0282_Typing on a keyboard, accompanied by a dog's whimper_2.wav",
+        "pre_score": [
+            0.08521512895822525
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0355_Laughter fills the air, accompanied by a plucked string instrument_3.wav",
+        "pre_score": [
+            0.002585591049864888
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0284_An engine roars to life, near a boat or water vehicle_1.wav",
+        "pre_score": [
+            0.2920079529285431
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0308_Video game music fills the air, mixed with the hum of a medium engine_0.wav",
+        "pre_score": [
+            0.17362549901008606
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0356_Hubbub and speech noise are heard, mixed with the sound of rain_4.wav",
+        "pre_score": [
+            0.01665882207453251
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0319_A dog whimpers, with traffic and roadway noise in the background_3.wav",
+        "pre_score": [
+            0.7519552707672119
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0280_A subway or metro moves underground, interrupted by the splash and splatter of water_3.wav",
+        "pre_score": [
+            0.8066409826278687
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0353_A plucked string instrument plays, set against background music_2.wav",
+        "pre_score": [
+            0.9938023090362549
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0329_A drum beats rhythmically, accompanied by the quack of a duck_4.wav",
+        "pre_score": [
+            0.9335262179374695
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0272_A goat bleats, and then human speech is heard_2.wav",
+        "pre_score": [
+            0.9931693077087402
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0306_Silence pervades, then is broken by a round of applause_4.wav",
+        "pre_score": [
+            0.033372245728969574
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0382_A vehicle moves, and then the sound of running is heard_3.wav",
+        "pre_score": [
+            0.33325496315956116
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0319_A dog whimpers, with traffic and roadway noise in the background_2.wav",
+        "pre_score": [
+            0.43942248821258545
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0374_An engine starts, accompanied by a hissing sound_2.wav",
+        "pre_score": [
+            0.020141296088695526
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0288_A narration or monologue plays, accompanied by a speech synthesizer_0.wav",
+        "pre_score": [
+            0.024726133793592453
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0305_Fireworks explode in the sky, while someone types on a computer keyboard_4.wav",
+        "pre_score": [
+            0.0002795742475427687
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0354_Whistling is heard, followed by the sloshing of water_4.wav",
+        "pre_score": [
+            0.9993081092834473
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0378_A sailboat sails through the water, and then a whimper is heard_1.wav",
+        "pre_score": [
+            0.6960251331329346
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0377_A lawn mower hums, accompanied by narration or a monologue_4.wav",
+        "pre_score": [
+            0.5918108820915222
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0337_An air horn or truck horn sounds, followed by the trickle of water_2.wav",
+        "pre_score": [
+            0.16154268383979797
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0350_A smoke detector or alarm goes off, accompanied by the sound of a stream_2.wav",
+        "pre_score": [
+            0.99527907371521
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0297_A balloon bursts with a pop, and then a water tap or faucet is heard_3.wav",
+        "pre_score": [
+            0.4902728796005249
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0366_A vehicle moves, accompanied by a dog's 'bow-wow'_1.wav",
+        "pre_score": [
+            0.9247720241546631
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0315_Tires skid, followed by the sound of video game music_4.wav",
+        "pre_score": [
+            0.9878042936325073
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0304_A dog whimpers softly amidst the noise of a crowd_3.wav",
+        "pre_score": [
+            0.008735927753150463
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0268_An animal sound is heard, followed by the rumble of thunder_2.wav",
+        "pre_score": [
+            0.2817278802394867
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0383_A sailboat or sailing ship moves through the water, accompanied by whispering_2.wav",
+        "pre_score": [
+            0.9390152096748352
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0309_A whooshing sound is heard, followed by a child speaking_2.wav",
+        "pre_score": [
+            0.9927693605422974
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0361_A civil defense siren wails, accompanied by the sounds of domestic animals or pets_2.wav",
+        "pre_score": [
+            0.5832687020301819
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0265_Dubstep music plays, and then a goat bleats in the background_0.wav",
+        "pre_score": [
+            0.9999854564666748
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0345_An aircraft engine roars, mixed with soundtrack music_1.wav",
+        "pre_score": [
+            0.27264562249183655
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0363_Dishes, pots, and pans clink, mixed with singing_0.wav",
+        "pre_score": [
+            0.9989080429077148
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0332_Pink noise fills the room, interrupted by a ringtone_1.wav",
+        "pre_score": [
+            0.9713828563690186
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0279_A train moves along the tracks, accompanied by the sound of a motor vehicle on the road_4.wav",
+        "pre_score": [
+            0.8438947200775146
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0276_Gunfire echoes, and then the babbling of a stream is heard_0.wav",
+        "pre_score": [
+            0.2723170518875122
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0325_A goose honks, accompanied by the roar of an aircraft engine_2.wav",
+        "pre_score": [
+            0.9202333688735962
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0296_Fireworks explode, accompanied by the chirping and tweeting of birds_3.wav",
+        "pre_score": [
+            0.0673554465174675
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0313_Crying and sobbing are heard, contrasted with chuckles and chortles_1.wav",
+        "pre_score": [
+            0.29641464352607727
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0299_Water trickles and dribbles, followed by the sound of a propeller or airscrew_4.wav",
+        "pre_score": [
+            0.6803928017616272
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0317_A tap opens, and then the sound of an engine is heard_4.wav",
+        "pre_score": [
+            0.18764595687389374
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0318_Fireworks light up the sky in a rural or natural setting_2.wav",
+        "pre_score": [
+            0.3350457549095154
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0381_A speech synthesizer speaks, accompanied by the strumming of an acoustic guitar_3.wav",
+        "pre_score": [
+            0.3943102955818176
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0363_Dishes, pots, and pans clink, mixed with singing_2.wav",
+        "pre_score": [
+            0.843209981918335
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0369_A snicker is heard, then the sound of a waterfall_3.wav",
+        "pre_score": [
+            0.6393624544143677
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0355_Laughter fills the air, accompanied by a plucked string instrument_2.wav",
+        "pre_score": [
+            0.06420838087797165
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0280_A subway or metro moves underground, interrupted by the splash and splatter of water_2.wav",
+        "pre_score": [
+            0.44024306535720825
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0322_A car horn honks, followed by the sound of an engine idling_0.wav",
+        "pre_score": [
+            0.005247334484010935
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0313_Crying and sobbing are heard, contrasted with chuckles and chortles_2.wav",
+        "pre_score": [
+            0.9561955332756042
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0326_A fart sound is heard, followed by the melody of a violin_3.wav",
+        "pre_score": [
+            0.9983938336372375
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0349_A hissing sound is heard, and then a sliding door moves_1.wav",
+        "pre_score": [
+            0.3600882589817047
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0371_A duck quacks, followed by the neighing and whinnying of a horse_4.wav",
+        "pre_score": [
+            0.877450168132782
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0333_The clickety-clack of something is heard, paired with the sound of rain_0.wav",
+        "pre_score": [
+            0.03379756957292557
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0341_A snicker is heard, then the sound of rustling_0.wav",
+        "pre_score": [
+            0.6464706063270569
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0306_Silence pervades, then is broken by a round of applause_0.wav",
+        "pre_score": [
+            0.38129696249961853
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0354_Whistling is heard, followed by the sloshing of water_2.wav",
+        "pre_score": [
+            0.9988512992858887
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0387_A tap opens, and then the sound of a sink filling or washing is heard_1.wav",
+        "pre_score": [
+            0.5310360789299011
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0296_Fireworks explode, accompanied by the chirping and tweeting of birds_0.wav",
+        "pre_score": [
+            0.027292512357234955
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0298_A toilet flushes, and then a car horn honks_3.wav",
+        "pre_score": [
+            0.9807235598564148
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0300_A dog barks, followed by the sound of someone burping_3.wav",
+        "pre_score": [
+            0.4056773781776428
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0329_A drum beats rhythmically, accompanied by the quack of a duck_2.wav",
+        "pre_score": [
+            0.11634961515665054
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0300_A dog barks, followed by the sound of someone burping_0.wav",
+        "pre_score": [
+            0.13230587542057037
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0357_Dance music plays, accompanied by a speech synthesizer_4.wav",
+        "pre_score": [
+            0.4349119961261749
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0294_Wood creaks and cracks, and then a whimper is heard_1.wav",
+        "pre_score": [
+            0.8230348229408264
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0342_Fireworks go off, followed by rhythm and blues music_0.wav",
+        "pre_score": [
+            0.0053654867224395275
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0389_An air horn or truck horn sounds, followed by whispering_0.wav",
+        "pre_score": [
+            0.028816794976592064
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0383_A sailboat or sailing ship moves through the water, accompanied by whispering_0.wav",
+        "pre_score": [
+            0.5250512957572937
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0278_Traffic and roadway noise mix with the sound of snoring_3.wav",
+        "pre_score": [
+            0.6714998483657837
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0382_A vehicle moves, and then the sound of running is heard_1.wav",
+        "pre_score": [
+            0.10894767940044403
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0268_An animal sound is heard, followed by the rumble of thunder_4.wav",
+        "pre_score": [
+            0.46496322751045227
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0346_A waterfall flows, accompanied by the sound of a railroad car or train wagon_1.wav",
+        "pre_score": [
+            0.621277391910553
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0293_Conversation takes place, accompanied by the revving of a motorcycle_1.wav",
+        "pre_score": [
+            0.5164021849632263
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0360_Background music plays, interrupted by the flush of a toilet_2.wav",
+        "pre_score": [
+            0.9811848998069763
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0392_A waterfall cascades, accompanied by the ringing of a bell_2.wav",
+        "pre_score": [
+            0.9378572702407837
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0267_A tire squeals sharply, and then a dog barks_2.wav",
+        "pre_score": [
+            0.02825015038251877
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0273_Gunfire or a fusillade rings out, and then birds chirp and tweet_4.wav",
+        "pre_score": [
+            0.5459055304527283
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0397_A thunderstorm rages outside, while food fries indoors_2.wav",
+        "pre_score": [
+            0.9493187665939331
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0361_A civil defense siren wails, accompanied by the sounds of domestic animals or pets_1.wav",
+        "pre_score": [
+            0.9285213351249695
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0361_A civil defense siren wails, accompanied by the sounds of domestic animals or pets_3.wav",
+        "pre_score": [
+            0.9370031952857971
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0298_A toilet flushes, and then a car horn honks_0.wav",
+        "pre_score": [
+            0.915698230266571
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0341_A snicker is heard, then the sound of rustling_2.wav",
+        "pre_score": [
+            0.09057848900556564
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0391_A sound effect plays, followed by the tick-tock of a clock_4.wav",
+        "pre_score": [
+            0.589687168598175
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0350_A smoke detector or alarm goes off, accompanied by the sound of a stream_1.wav",
+        "pre_score": [
+            0.3741980195045471
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0301_The roar of an aircraft engine blends with the melody of female singing_3.wav",
+        "pre_score": [
+            0.30121588706970215
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0346_A waterfall flows, accompanied by the sound of a railroad car or train wagon_4.wav",
+        "pre_score": [
+            0.9694855213165283
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0265_Dubstep music plays, and then a goat bleats in the background_3.wav",
+        "pre_score": [
+            0.00783776119351387
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0293_Conversation takes place, accompanied by the revving of a motorcycle_3.wav",
+        "pre_score": [
+            0.4362134635448456
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0333_The clickety-clack of something is heard, paired with the sound of rain_1.wav",
+        "pre_score": [
+            0.8266155123710632
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0367_A car drives by, mixed with traffic and roadway noise_4.wav",
+        "pre_score": [
+            0.10225033760070801
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0320_A sound effect plays, followed by a beep or bleep_0.wav",
+        "pre_score": [
+            0.9830105304718018
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0380_A vehicle moves along, accompanied by the roar of an aircraft engine_4.wav",
+        "pre_score": [
+            0.5434143543243408
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0316_Frogs croak, and then cheering is heard in the background_2.wav",
+        "pre_score": [
+            0.11401502788066864
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0386_A sliding door moves, followed by the siren of a fire engine or fire truck_0.wav",
+        "pre_score": [
+            0.033970534801483154
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0321_Wind noise is picked up by a microphone, and then a duck quacks_1.wav",
+        "pre_score": [
+            0.02967223897576332
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0266_A civil defense siren wails, followed by the rumble of thunder_3.wav",
+        "pre_score": [
+            0.9054763317108154
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0391_A sound effect plays, followed by the tick-tock of a clock_1.wav",
+        "pre_score": [
+            0.7477774620056152
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0337_An air horn or truck horn sounds, followed by the trickle of water_0.wav",
+        "pre_score": [
+            0.059720464050769806
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0278_Traffic and roadway noise mix with the sound of snoring_1.wav",
+        "pre_score": [
+            0.8172364234924316
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0319_A dog whimpers, with traffic and roadway noise in the background_0.wav",
+        "pre_score": [
+            0.8027873039245605
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0322_A car horn honks, followed by the sound of an engine idling_2.wav",
+        "pre_score": [
+            0.00013551961455959827
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0339_Techno music plays, accompanied by a snicker_1.wav",
+        "pre_score": [
+            0.9985108971595764
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0279_A train moves along the tracks, accompanied by the sound of a motor vehicle on the road_3.wav",
+        "pre_score": [
+            0.40871164202690125
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0297_A balloon bursts with a pop, and then a water tap or faucet is heard_0.wav",
+        "pre_score": [
+            0.429433137178421
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0387_A tap opens, and then the sound of a sink filling or washing is heard_3.wav",
+        "pre_score": [
+            0.8809056282043457
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0345_An aircraft engine roars, mixed with soundtrack music_2.wav",
+        "pre_score": [
+            0.08885886520147324
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0390_A dog barks, and then the sound of tools is heard_0.wav",
+        "pre_score": [
+            0.5903238654136658
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0352_Wood creaks and cracks, accompanied by tender music_3.wav",
+        "pre_score": [
+            0.2422928810119629
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0267_A tire squeals sharply, and then a dog barks_3.wav",
+        "pre_score": [
+            0.044194821268320084
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0314_The sound of snoring is interrupted by the beat of dubstep music_4.wav",
+        "pre_score": [
+            0.9269512891769409
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0375_A musical instrument plays, interrupted by the blast of an air horn or truck horn_4.wav",
+        "pre_score": [
+            0.002589758252725005
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0383_A sailboat or sailing ship moves through the water, accompanied by whispering_3.wav",
+        "pre_score": [
+            0.9243025779724121
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0313_Crying and sobbing are heard, contrasted with chuckles and chortles_3.wav",
+        "pre_score": [
+            0.9412020444869995
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0357_Dance music plays, accompanied by a speech synthesizer_0.wav",
+        "pre_score": [
+            0.9911974668502808
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0324_A train horn blasts, mixed with the rhythm of dubstep music_3.wav",
+        "pre_score": [
+            0.08074592798948288
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0380_A vehicle moves along, accompanied by the roar of an aircraft engine_1.wav",
+        "pre_score": [
+            0.4575026333332062
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0370_A heavy engine rumbles lowly, accompanied by the sound of a vehicle_2.wav",
+        "pre_score": [
+            0.7950745224952698
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0360_Background music plays, interrupted by the flush of a toilet_3.wav",
+        "pre_score": [
+            0.6337907314300537
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0387_A tap opens, and then the sound of a sink filling or washing is heard_2.wav",
+        "pre_score": [
+            0.72899329662323
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0291_A vehicle moves along, and then radio tunes are heard_4.wav",
+        "pre_score": [
+            0.12752535939216614
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0368_A car horn honks, followed by the squeal of tires_4.wav",
+        "pre_score": [
+            0.5000580549240112
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0377_A lawn mower hums, accompanied by narration or a monologue_1.wav",
+        "pre_score": [
+            0.9239544868469238
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0338_Water sloshes around, with bees and wasps buzzing nearby_0.wav",
+        "pre_score": [
+            0.9540269374847412
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0306_Silence pervades, then is broken by a round of applause_1.wav",
+        "pre_score": [
+            0.7469989061355591
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0284_An engine roars to life, near a boat or water vehicle_4.wav",
+        "pre_score": [
+            0.8248089551925659
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0263_An aircraft engine roars, mixed with the hum of pink noise_0.wav",
+        "pre_score": [
+            0.2737097442150116
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0288_A narration or monologue plays, accompanied by a speech synthesizer_4.wav",
+        "pre_score": [
+            0.2692474126815796
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0307_Video game music plays, accompanied by the sound of something being rubbed_4.wav",
+        "pre_score": [
+            0.9163336157798767
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0280_A subway or metro moves underground, interrupted by the splash and splatter of water_0.wav",
+        "pre_score": [
+            0.28999197483062744
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0291_A vehicle moves along, and then radio tunes are heard_1.wav",
+        "pre_score": [
+            0.6299315690994263
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0281_Laughter and chuckles are heard, and then the sound of crying and sobbing_4.wav",
+        "pre_score": [
+            0.3045763075351715
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0338_Water sloshes around, with bees and wasps buzzing nearby_4.wav",
+        "pre_score": [
+            0.9487802982330322
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0379_Hubbub and speech noise fill the air, followed by a woman speaking_2.wav",
+        "pre_score": [
+            0.019388804212212563
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0309_A whooshing sound is heard, followed by a child speaking_3.wav",
+        "pre_score": [
+            0.9962937235832214
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0332_Pink noise fills the room, interrupted by a ringtone_0.wav",
+        "pre_score": [
+            0.9595370888710022
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0342_Fireworks go off, followed by rhythm and blues music_4.wav",
+        "pre_score": [
+            0.9763941168785095
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0312_Water fills or washes a sink, and a medium engine rumbles nearby_2.wav",
+        "pre_score": [
+            0.11763270199298859
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0315_Tires skid, followed by the sound of video game music_1.wav",
+        "pre_score": [
+            0.9955405592918396
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0302_A waterfall cascades down, accompanied by the sound of a vehicle accelerating_3.wav",
+        "pre_score": [
+            0.05525156855583191
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0312_Water fills or washes a sink, and a medium engine rumbles nearby_0.wav",
+        "pre_score": [
+            0.9296220541000366
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0342_Fireworks go off, followed by rhythm and blues music_3.wav",
+        "pre_score": [
+            0.6378021836280823
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0293_Conversation takes place, accompanied by the revving of a motorcycle_2.wav",
+        "pre_score": [
+            0.9592536687850952
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0384_A fart sound is heard, followed by female singing_4.wav",
+        "pre_score": [
+            0.9066846370697021
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0341_A snicker is heard, then the sound of rustling_4.wav",
+        "pre_score": [
+            0.8746190667152405
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0295_Male singing is heard, followed by the sound of a vehicle_3.wav",
+        "pre_score": [
+            0.0025957957841455936
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0382_A vehicle moves, and then the sound of running is heard_0.wav",
+        "pre_score": [
+            0.8740682601928711
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0297_A balloon bursts with a pop, and then a water tap or faucet is heard_2.wav",
+        "pre_score": [
+            0.1909664273262024
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0274_A clock ticks with a 'tick-tock', and then the sound of a waterfall is heard_1.wav",
+        "pre_score": [
+            0.3184410333633423
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0282_Typing on a keyboard, accompanied by a dog's whimper_4.wav",
+        "pre_score": [
+            0.019450593739748
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0282_Typing on a keyboard, accompanied by a dog's whimper_1.wav",
+        "pre_score": [
+            0.16797485947608948
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0382_A vehicle moves, and then the sound of running is heard_2.wav",
+        "pre_score": [
+            0.4238911271095276
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0359_Fireworks explode in the sky, met with cheers from the crowd_2.wav",
+        "pre_score": [
+            0.9735661149024963
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0348_A dog barks, followed by chuckles and chortles_3.wav",
+        "pre_score": [
+            0.03347151726484299
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0321_Wind noise is picked up by a microphone, and then a duck quacks_4.wav",
+        "pre_score": [
+            0.2526372969150543
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0336_Snoring sounds blend with environmental noise_1.wav",
+        "pre_score": [
+            0.3941074311733246
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0369_A snicker is heard, then the sound of a waterfall_1.wav",
+        "pre_score": [
+            0.6865370273590088
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0363_Dishes, pots, and pans clink, mixed with singing_3.wav",
+        "pre_score": [
+            0.9120883345603943
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0384_A fart sound is heard, followed by female singing_0.wav",
+        "pre_score": [
+            0.8474760055541992
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0356_Hubbub and speech noise are heard, mixed with the sound of rain_0.wav",
+        "pre_score": [
+            0.6146227717399597
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0346_A waterfall flows, accompanied by the sound of a railroad car or train wagon_2.wav",
+        "pre_score": [
+            0.09870972484350204
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0362_A sliding door moves, followed by the bark of a dog_1.wav",
+        "pre_score": [
+            0.40340420603752136
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0269_A violin plays softly, and then the sound of rubbing is heard_1.wav",
+        "pre_score": [
+            0.4250316917896271
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0307_Video game music plays, accompanied by the sound of something being rubbed_3.wav",
+        "pre_score": [
+            0.9998297691345215
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0331_A cooing sound is heard, followed by a fart_1.wav",
+        "pre_score": [
+            0.5154021978378296
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0353_A plucked string instrument plays, set against background music_1.wav",
+        "pre_score": [
+            0.9998624324798584
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0328_Inside a large room or hall, a vehicle horn honks_1.wav",
+        "pre_score": [
+            0.007984061725437641
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0303_Inside a large room or hall, the croaking of a frog is heard_4.wav",
+        "pre_score": [
+            0.4568450152873993
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0330_Livestock and farm animals make noise, with the buzzing of a fly_3.wav",
+        "pre_score": [
+            0.5198352932929993
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0327_An air horn or truck horn sounds, amidst the rustling of leaves_4.wav",
+        "pre_score": [
+            0.7334951758384705
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0314_The sound of snoring is interrupted by the beat of dubstep music_0.wav",
+        "pre_score": [
+            0.5109399557113647
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0367_A car drives by, mixed with traffic and roadway noise_2.wav",
+        "pre_score": [
+            0.12705369293689728
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0335_Telephone dialing tones are heard, followed by tender music_4.wav",
+        "pre_score": [
+            0.13263557851314545
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0277_A cooing sound is heard, followed by the sound of a bus_0.wav",
+        "pre_score": [
+            0.20773223042488098
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0342_Fireworks go off, followed by rhythm and blues music_1.wav",
+        "pre_score": [
+            0.995658278465271
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0273_Gunfire or a fusillade rings out, and then birds chirp and tweet_3.wav",
+        "pre_score": [
+            0.1829254925251007
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0312_Water fills or washes a sink, and a medium engine rumbles nearby_4.wav",
+        "pre_score": [
+            0.5385118722915649
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0269_A violin plays softly, and then the sound of rubbing is heard_2.wav",
+        "pre_score": [
+            0.03649075701832771
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0264_A sailboat sails through the water, and then a frog croaks_4.wav",
+        "pre_score": [
+            0.9936118721961975
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0285_A car horn honks, and then a guitar strums_4.wav",
+        "pre_score": [
+            0.9998145699501038
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0279_A train moves along the tracks, accompanied by the sound of a motor vehicle on the road_2.wav",
+        "pre_score": [
+            0.28654858469963074
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0291_A vehicle moves along, and then radio tunes are heard_2.wav",
+        "pre_score": [
+            0.7879095077514648
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0343_A siren wails, and then the sound of a bathtub filling is heard_2.wav",
+        "pre_score": [
+            0.9871707558631897
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0286_Food sizzles as it fries, and then a goat bleats_1.wav",
+        "pre_score": [
+            0.9991763234138489
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0276_Gunfire echoes, and then the babbling of a stream is heard_3.wav",
+        "pre_score": [
+            0.02093258872628212
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0334_A bus passes by, followed by the sound of a sliding door_2.wav",
+        "pre_score": [
+            0.015258725732564926
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0320_A sound effect plays, followed by a beep or bleep_1.wav",
+        "pre_score": [
+            0.6187220811843872
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0343_A siren wails, and then the sound of a bathtub filling is heard_0.wav",
+        "pre_score": [
+            0.025270206853747368
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0350_A smoke detector or alarm goes off, accompanied by the sound of a stream_0.wav",
+        "pre_score": [
+            0.8509868383407593
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0341_A snicker is heard, then the sound of rustling_1.wav",
+        "pre_score": [
+            0.8525850176811218
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0379_Hubbub and speech noise fill the air, followed by a woman speaking_1.wav",
+        "pre_score": [
+            0.12745684385299683
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0392_A waterfall cascades, accompanied by the ringing of a bell_0.wav",
+        "pre_score": [
+            0.4123118817806244
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0266_A civil defense siren wails, followed by the rumble of thunder_1.wav",
+        "pre_score": [
+            0.08924674242734909
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0389_An air horn or truck horn sounds, followed by whispering_3.wav",
+        "pre_score": [
+            0.07381495833396912
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0374_An engine starts, accompanied by a hissing sound_4.wav",
+        "pre_score": [
+            0.02764371782541275
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0339_Techno music plays, accompanied by a snicker_2.wav",
+        "pre_score": [
+            0.8887506127357483
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0290_Inside a large room or hall, the sound of a bicycle is heard_0.wav",
+        "pre_score": [
+            0.7551172375679016
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0298_A toilet flushes, and then a car horn honks_1.wav",
+        "pre_score": [
+            0.8035613298416138
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0281_Laughter and chuckles are heard, and then the sound of crying and sobbing_1.wav",
+        "pre_score": [
+            0.8374635577201843
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0294_Wood creaks and cracks, and then a whimper is heard_4.wav",
+        "pre_score": [
+            0.40321898460388184
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0383_A sailboat or sailing ship moves through the water, accompanied by whispering_4.wav",
+        "pre_score": [
+            0.7086894512176514
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0370_A heavy engine rumbles lowly, accompanied by the sound of a vehicle_1.wav",
+        "pre_score": [
+            0.26307040452957153
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0282_Typing on a keyboard, accompanied by a dog's whimper_0.wav",
+        "pre_score": [
+            0.2685805857181549
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0285_A car horn honks, and then a guitar strums_3.wav",
+        "pre_score": [
+            0.296964555978775
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0336_Snoring sounds blend with environmental noise_3.wav",
+        "pre_score": [
+            0.921215832233429
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0364_Vibrations are felt, accompanied by a child speaking_3.wav",
+        "pre_score": [
+            0.9899525046348572
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0305_Fireworks explode in the sky, while someone types on a computer keyboard_2.wav",
+        "pre_score": [
+            0.34645769000053406
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0339_Techno music plays, accompanied by a snicker_0.wav",
+        "pre_score": [
+            0.6200823783874512
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0353_A plucked string instrument plays, set against background music_0.wav",
+        "pre_score": [
+            0.984370768070221
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0303_Inside a large room or hall, the croaking of a frog is heard_1.wav",
+        "pre_score": [
+            0.10074151307344437
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0381_A speech synthesizer speaks, accompanied by the strumming of an acoustic guitar_4.wav",
+        "pre_score": [
+            0.9999492168426514
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0354_Whistling is heard, followed by the sloshing of water_3.wav",
+        "pre_score": [
+            0.9884327054023743
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0366_A vehicle moves, accompanied by a dog's 'bow-wow'_4.wav",
+        "pre_score": [
+            0.34942394495010376
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0328_Inside a large room or hall, a vehicle horn honks_0.wav",
+        "pre_score": [
+            0.0009534540586173534
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0361_A civil defense siren wails, accompanied by the sounds of domestic animals or pets_4.wav",
+        "pre_score": [
+            0.03386099636554718
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0340_Inside a large room or hall, a basketball bounces_1.wav",
+        "pre_score": [
+            0.17633213102817535
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0338_Water sloshes around, with bees and wasps buzzing nearby_2.wav",
+        "pre_score": [
+            0.9777286648750305
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0297_A balloon bursts with a pop, and then a water tap or faucet is heard_4.wav",
+        "pre_score": [
+            0.013079891912639141
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0310_Animal sounds are heard, along with the hissing of steam_4.wav",
+        "pre_score": [
+            0.9982119798660278
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0277_A cooing sound is heard, followed by the sound of a bus_2.wav",
+        "pre_score": [
+            0.8014439344406128
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0390_A dog barks, and then the sound of tools is heard_2.wav",
+        "pre_score": [
+            0.9814095497131348
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0392_A waterfall cascades, accompanied by the ringing of a bell_1.wav",
+        "pre_score": [
+            0.9781755805015564
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0384_A fart sound is heard, followed by female singing_3.wav",
+        "pre_score": [
+            0.9333500862121582
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0283_Singing fills the air, and then the sound of a fixed-wing aircraft or airplane_2.wav",
+        "pre_score": [
+            0.22171935439109802
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0375_A musical instrument plays, interrupted by the blast of an air horn or truck horn_3.wav",
+        "pre_score": [
+            0.08316894620656967
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0268_An animal sound is heard, followed by the rumble of thunder_1.wav",
+        "pre_score": [
+            0.04545965418219566
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0277_A cooing sound is heard, followed by the sound of a bus_4.wav",
+        "pre_score": [
+            0.9711820483207703
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0284_An engine roars to life, near a boat or water vehicle_3.wav",
+        "pre_score": [
+            0.4390924870967865
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0297_A balloon bursts with a pop, and then a water tap or faucet is heard_1.wav",
+        "pre_score": [
+            0.9971454739570618
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0273_Gunfire or a fusillade rings out, and then birds chirp and tweet_2.wav",
+        "pre_score": [
+            0.3499208986759186
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0358_A thunderstorm rages outside, with the cries of a baby inside_4.wav",
+        "pre_score": [
+            0.9218586683273315
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0292_Cutlery and silverware clink, followed by the babbling of a stream_2.wav",
+        "pre_score": [
+            0.7118141055107117
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0346_A waterfall flows, accompanied by the sound of a railroad car or train wagon_3.wav",
+        "pre_score": [
+            0.8320668935775757
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0280_A subway or metro moves underground, interrupted by the splash and splatter of water_4.wav",
+        "pre_score": [
+            0.3247029185295105
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0332_Pink noise fills the room, interrupted by a ringtone_2.wav",
+        "pre_score": [
+            0.9775365591049194
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0365_A sound effect plays, followed by the strumming of an acoustic guitar_1.wav",
+        "pre_score": [
+            0.9999897480010986
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0283_Singing fills the air, and then the sound of a fixed-wing aircraft or airplane_4.wav",
+        "pre_score": [
+            0.005093891639262438
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0361_A civil defense siren wails, accompanied by the sounds of domestic animals or pets_0.wav",
+        "pre_score": [
+            0.002707511419430375
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0270_A toilet flushes, and then insects buzz around_2.wav",
+        "pre_score": [
+            0.8836616277694702
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0385_A fly buzzes around, and then the sound of a race car or auto racing is heard_4.wav",
+        "pre_score": [
+            0.7957037091255188
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0265_Dubstep music plays, and then a goat bleats in the background_2.wav",
+        "pre_score": [
+            0.3599221706390381
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0394_A bird sings or chirps, accompanied by video game music_3.wav",
+        "pre_score": [
+            0.9936448335647583
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0374_An engine starts, accompanied by a hissing sound_3.wav",
+        "pre_score": [
+            0.39005011320114136
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0271_A violin plays a melody, followed by the splash and splatter of water_3.wav",
+        "pre_score": [
+            1.0
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0368_A car horn honks, followed by the squeal of tires_1.wav",
+        "pre_score": [
+            0.09227269142866135
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0358_A thunderstorm rages outside, with the cries of a baby inside_2.wav",
+        "pre_score": [
+            0.9908807277679443
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0309_A whooshing sound is heard, followed by a child speaking_1.wav",
+        "pre_score": [
+            0.7640740275382996
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0274_A clock ticks with a 'tick-tock', and then the sound of a waterfall is heard_3.wav",
+        "pre_score": [
+            0.9203647971153259
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0321_Wind noise is picked up by a microphone, and then a duck quacks_0.wav",
+        "pre_score": [
+            0.031550027430057526
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0286_Food sizzles as it fries, and then a goat bleats_0.wav",
+        "pre_score": [
+            0.9448972940444946
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0376_A fart sound is heard, followed by a sound effect_1.wav",
+        "pre_score": [
+            0.2807695269584656
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0308_Video game music fills the air, mixed with the hum of a medium engine_4.wav",
+        "pre_score": [
+            0.3631041646003723
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0353_A plucked string instrument plays, set against background music_3.wav",
+        "pre_score": [
+            0.032861560583114624
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0311_The clip-clop of hooves is accompanied by the chirping and tweeting of birds_3.wav",
+        "pre_score": [
+            0.018943054601550102
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0381_A speech synthesizer speaks, accompanied by the strumming of an acoustic guitar_2.wav",
+        "pre_score": [
+            0.9891468286514282
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0386_A sliding door moves, followed by the siren of a fire engine or fire truck_2.wav",
+        "pre_score": [
+            0.1419566124677658
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0333_The clickety-clack of something is heard, paired with the sound of rain_4.wav",
+        "pre_score": [
+            0.9745572805404663
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0358_A thunderstorm rages outside, with the cries of a baby inside_0.wav",
+        "pre_score": [
+            0.9700438976287842
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0312_Water fills or washes a sink, and a medium engine rumbles nearby_1.wav",
+        "pre_score": [
+            0.998451828956604
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0275_A telephone rings, accompanied by the rumble of a heavy engine_0.wav",
+        "pre_score": [
+            0.42189884185791016
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0344_A pig oinks, accompanied by a sound effect_0.wav",
+        "pre_score": [
+            0.005225184373557568
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0349_A hissing sound is heard, and then a sliding door moves_4.wav",
+        "pre_score": [
+            0.14375551044940948
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0339_Techno music plays, accompanied by a snicker_3.wav",
+        "pre_score": [
+            0.7251847386360168
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0343_A siren wails, and then the sound of a bathtub filling is heard_3.wav",
+        "pre_score": [
+            0.6820214986801147
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0322_A car horn honks, followed by the sound of an engine idling_3.wav",
+        "pre_score": [
+            0.28570497035980225
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0370_A heavy engine rumbles lowly, accompanied by the sound of a vehicle_3.wav",
+        "pre_score": [
+            0.051141053438186646
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0308_Video game music fills the air, mixed with the hum of a medium engine_2.wav",
+        "pre_score": [
+            0.8411540389060974
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0263_An aircraft engine roars, mixed with the hum of pink noise_2.wav",
+        "pre_score": [
+            0.6005852222442627
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0301_The roar of an aircraft engine blends with the melody of female singing_4.wav",
+        "pre_score": [
+            0.004702164325863123
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0337_An air horn or truck horn sounds, followed by the trickle of water_3.wav",
+        "pre_score": [
+            0.8157830834388733
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0397_A thunderstorm rages outside, while food fries indoors_0.wav",
+        "pre_score": [
+            0.7721467018127441
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0385_A fly buzzes around, and then the sound of a race car or auto racing is heard_0.wav",
+        "pre_score": [
+            0.9838391542434692
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0294_Wood creaks and cracks, and then a whimper is heard_2.wav",
+        "pre_score": [
+            0.6529071927070618
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0372_Rhythm and blues music plays, mixed with the sounds of a subway or metro underground_4.wav",
+        "pre_score": [
+            0.8810394406318665
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0360_Background music plays, interrupted by the flush of a toilet_0.wav",
+        "pre_score": [
+            0.9934923052787781
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0369_A snicker is heard, then the sound of a waterfall_0.wav",
+        "pre_score": [
+            0.13908901810646057
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0369_A snicker is heard, then the sound of a waterfall_2.wav",
+        "pre_score": [
+            0.4149104356765747
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0397_A thunderstorm rages outside, while food fries indoors_1.wav",
+        "pre_score": [
+            0.9384442567825317
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0292_Cutlery and silverware clink, followed by the babbling of a stream_3.wav",
+        "pre_score": [
+            0.2729005813598633
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0349_A hissing sound is heard, and then a sliding door moves_3.wav",
+        "pre_score": [
+            0.025945616886019707
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0385_A fly buzzes around, and then the sound of a race car or auto racing is heard_2.wav",
+        "pre_score": [
+            0.4612482786178589
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0388_Sheep bleat, accompanied by the sizzling of food_1.wav",
+        "pre_score": [
+            0.8912426233291626
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0394_A bird sings or chirps, accompanied by video game music_1.wav",
+        "pre_score": [
+            0.9999946355819702
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0284_An engine roars to life, near a boat or water vehicle_2.wav",
+        "pre_score": [
+            0.014013031497597694
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0265_Dubstep music plays, and then a goat bleats in the background_4.wav",
+        "pre_score": [
+            0.9874992966651917
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0301_The roar of an aircraft engine blends with the melody of female singing_0.wav",
+        "pre_score": [
+            0.1235203966498375
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0355_Laughter fills the air, accompanied by a plucked string instrument_4.wav",
+        "pre_score": [
+            0.8087595105171204
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0337_An air horn or truck horn sounds, followed by the trickle of water_4.wav",
+        "pre_score": [
+            0.6694402098655701
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0393_Screaming is heard, followed by the sloshing of water_1.wav",
+        "pre_score": [
+            0.9931348562240601
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0289_A sink fills or washes, and then the sound of a subway or metro underground_1.wav",
+        "pre_score": [
+            0.9654685854911804
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0288_A narration or monologue plays, accompanied by a speech synthesizer_3.wav",
+        "pre_score": [
+            0.683482825756073
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0395_Chickens and roosters cluck and crow, among other livestock and farm animals_1.wav",
+        "pre_score": [
+            0.670745849609375
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0326_A fart sound is heard, followed by the melody of a violin_4.wav",
+        "pre_score": [
+            0.7274675369262695
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0389_An air horn or truck horn sounds, followed by whispering_2.wav",
+        "pre_score": [
+            0.007387738674879074
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0278_Traffic and roadway noise mix with the sound of snoring_4.wav",
+        "pre_score": [
+            0.5580753684043884
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0351_A bathtub fills or washes, with the rumble of a heavy engine_4.wav",
+        "pre_score": [
+            0.9505982995033264
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0267_A tire squeals sharply, and then a dog barks_0.wav",
+        "pre_score": [
+            0.014181909151375294
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0399_People chatter inside a large room or hall_1.wav",
+        "pre_score": [
+            0.005121602676808834
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0265_Dubstep music plays, and then a goat bleats in the background_1.wav",
+        "pre_score": [
+            0.9908241033554077
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0302_A waterfall cascades down, accompanied by the sound of a vehicle accelerating_2.wav",
+        "pre_score": [
+            0.4134489595890045
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0352_Wood creaks and cracks, accompanied by tender music_2.wav",
+        "pre_score": [
+            0.9863370060920715
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0346_A waterfall flows, accompanied by the sound of a railroad car or train wagon_0.wav",
+        "pre_score": [
+            0.8828979730606079
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0325_A goose honks, accompanied by the roar of an aircraft engine_0.wav",
+        "pre_score": [
+            0.930153489112854
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0347_Rustling leaves are heard, with the ocean in the background_2.wav",
+        "pre_score": [
+            0.49948257207870483
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0322_A car horn honks, followed by the sound of an engine idling_1.wav",
+        "pre_score": [
+            0.9274654984474182
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0370_A heavy engine rumbles lowly, accompanied by the sound of a vehicle_0.wav",
+        "pre_score": [
+            0.5811460018157959
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0313_Crying and sobbing are heard, contrasted with chuckles and chortles_4.wav",
+        "pre_score": [
+            0.9954467415809631
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0334_A bus passes by, followed by the sound of a sliding door_1.wav",
+        "pre_score": [
+            0.5806219577789307
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0298_A toilet flushes, and then a car horn honks_4.wav",
+        "pre_score": [
+            0.9621215462684631
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0396_A hissing sound is heard, followed by the ringing of a bicycle bell_0.wav",
+        "pre_score": [
+            0.14776679873466492
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0354_Whistling is heard, followed by the sloshing of water_0.wav",
+        "pre_score": [
+            0.9436528086662292
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0317_A tap opens, and then the sound of an engine is heard_1.wav",
+        "pre_score": [
+            0.6882510185241699
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0275_A telephone rings, accompanied by the rumble of a heavy engine_3.wav",
+        "pre_score": [
+            0.07728227972984314
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0307_Video game music plays, accompanied by the sound of something being rubbed_0.wav",
+        "pre_score": [
+            0.7078508138656616
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0291_A vehicle moves along, and then radio tunes are heard_3.wav",
+        "pre_score": [
+            0.5257759690284729
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0318_Fireworks light up the sky in a rural or natural setting_3.wav",
+        "pre_score": [
+            0.004461292177438736
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0380_A vehicle moves along, accompanied by the roar of an aircraft engine_0.wav",
+        "pre_score": [
+            0.2459091991186142
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0376_A fart sound is heard, followed by a sound effect_4.wav",
+        "pre_score": [
+            0.5764777660369873
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0263_An aircraft engine roars, mixed with the hum of pink noise_1.wav",
+        "pre_score": [
+            0.9919305443763733
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0328_Inside a large room or hall, a vehicle horn honks_2.wav",
+        "pre_score": [
+            0.006075256038457155
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0331_A cooing sound is heard, followed by a fart_3.wav",
+        "pre_score": [
+            0.872601330280304
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0371_A duck quacks, followed by the neighing and whinnying of a horse_0.wav",
+        "pre_score": [
+            0.2838036119937897
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0362_A sliding door moves, followed by the bark of a dog_2.wav",
+        "pre_score": [
+            0.37460219860076904
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0359_Fireworks explode in the sky, met with cheers from the crowd_0.wav",
+        "pre_score": [
+            0.028723809868097305
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0364_Vibrations are felt, accompanied by a child speaking_1.wav",
+        "pre_score": [
+            0.9963746666908264
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0335_Telephone dialing tones are heard, followed by tender music_0.wav",
+        "pre_score": [
+            0.975397527217865
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0298_A toilet flushes, and then a car horn honks_2.wav",
+        "pre_score": [
+            0.8574880361557007
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0379_Hubbub and speech noise fill the air, followed by a woman speaking_3.wav",
+        "pre_score": [
+            0.6109763383865356
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0390_A dog barks, and then the sound of tools is heard_1.wav",
+        "pre_score": [
+            0.6608594059944153
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0296_Fireworks explode, accompanied by the chirping and tweeting of birds_2.wav",
+        "pre_score": [
+            0.000761642528232187
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0303_Inside a large room or hall, the croaking of a frog is heard_2.wav",
+        "pre_score": [
+            0.031721822917461395
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0291_A vehicle moves along, and then radio tunes are heard_0.wav",
+        "pre_score": [
+            0.06774235516786575
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0384_A fart sound is heard, followed by female singing_1.wav",
+        "pre_score": [
+            0.883554995059967
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0367_A car drives by, mixed with traffic and roadway noise_3.wav",
+        "pre_score": [
+            0.9882787466049194
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0344_A pig oinks, accompanied by a sound effect_1.wav",
+        "pre_score": [
+            0.9896476864814758
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0309_A whooshing sound is heard, followed by a child speaking_4.wav",
+        "pre_score": [
+            0.9901858568191528
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0386_A sliding door moves, followed by the siren of a fire engine or fire truck_4.wav",
+        "pre_score": [
+            0.04060579091310501
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0362_A sliding door moves, followed by the bark of a dog_3.wav",
+        "pre_score": [
+            0.5866767168045044
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0380_A vehicle moves along, accompanied by the roar of an aircraft engine_2.wav",
+        "pre_score": [
+            0.3569437861442566
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0301_The roar of an aircraft engine blends with the melody of female singing_1.wav",
+        "pre_score": [
+            0.054377954453229904
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0397_A thunderstorm rages outside, while food fries indoors_4.wav",
+        "pre_score": [
+            0.4145313799381256
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0270_A toilet flushes, and then insects buzz around_0.wav",
+        "pre_score": [
+            0.3478820025920868
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0344_A pig oinks, accompanied by a sound effect_2.wav",
+        "pre_score": [
+            0.8337324857711792
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0317_A tap opens, and then the sound of an engine is heard_2.wav",
+        "pre_score": [
+            0.16115890443325043
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0310_Animal sounds are heard, along with the hissing of steam_0.wav",
+        "pre_score": [
+            0.8568896055221558
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0363_Dishes, pots, and pans clink, mixed with singing_1.wav",
+        "pre_score": [
+            0.9975157976150513
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0266_A civil defense siren wails, followed by the rumble of thunder_4.wav",
+        "pre_score": [
+            0.027669494971632957
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0286_Food sizzles as it fries, and then a goat bleats_3.wav",
+        "pre_score": [
+            0.9730045795440674
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0393_Screaming is heard, followed by the sloshing of water_2.wav",
+        "pre_score": [
+            0.9986273050308228
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0273_Gunfire or a fusillade rings out, and then birds chirp and tweet_1.wav",
+        "pre_score": [
+            0.0032954374328255653
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0343_A siren wails, and then the sound of a bathtub filling is heard_4.wav",
+        "pre_score": [
+            0.9837509989738464
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0325_A goose honks, accompanied by the roar of an aircraft engine_1.wav",
+        "pre_score": [
+            0.9087457060813904
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0323_An explosion is heard, then the rumble of a truck_2.wav",
+        "pre_score": [
+            0.9238815307617188
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0372_Rhythm and blues music plays, mixed with the sounds of a subway or metro underground_0.wav",
+        "pre_score": [
+            0.2526068389415741
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0375_A musical instrument plays, interrupted by the blast of an air horn or truck horn_0.wav",
+        "pre_score": [
+            0.009177371859550476
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0340_Inside a large room or hall, a basketball bounces_0.wav",
+        "pre_score": [
+            0.36640027165412903
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0272_A goat bleats, and then human speech is heard_0.wav",
+        "pre_score": [
+            0.46999743580818176
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0263_An aircraft engine roars, mixed with the hum of pink noise_4.wav",
+        "pre_score": [
+            0.3435725271701813
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0382_A vehicle moves, and then the sound of running is heard_4.wav",
+        "pre_score": [
+            0.028252264484763145
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0274_A clock ticks with a 'tick-tock', and then the sound of a waterfall is heard_2.wav",
+        "pre_score": [
+            0.9436450600624084
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0389_An air horn or truck horn sounds, followed by whispering_4.wav",
+        "pre_score": [
+            0.02485848404467106
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0304_A dog whimpers softly amidst the noise of a crowd_2.wav",
+        "pre_score": [
+            0.4194759428501129
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0358_A thunderstorm rages outside, with the cries of a baby inside_3.wav",
+        "pre_score": [
+            0.989822268486023
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0379_Hubbub and speech noise fill the air, followed by a woman speaking_4.wav",
+        "pre_score": [
+            0.06906140595674515
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0356_Hubbub and speech noise are heard, mixed with the sound of rain_1.wav",
+        "pre_score": [
+            0.2506585717201233
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0355_Laughter fills the air, accompanied by a plucked string instrument_1.wav",
+        "pre_score": [
+            0.011190861463546753
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0301_The roar of an aircraft engine blends with the melody of female singing_2.wav",
+        "pre_score": [
+            0.029846005141735077
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0283_Singing fills the air, and then the sound of a fixed-wing aircraft or airplane_0.wav",
+        "pre_score": [
+            0.8625147342681885
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0376_A fart sound is heard, followed by a sound effect_0.wav",
+        "pre_score": [
+            0.9924140572547913
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0378_A sailboat sails through the water, and then a whimper is heard_2.wav",
+        "pre_score": [
+            0.8531621098518372
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0390_A dog barks, and then the sound of tools is heard_3.wav",
+        "pre_score": [
+            0.3368438482284546
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0352_Wood creaks and cracks, accompanied by tender music_0.wav",
+        "pre_score": [
+            0.01846642978489399
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0264_A sailboat sails through the water, and then a frog croaks_0.wav",
+        "pre_score": [
+            0.07528167217969894
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0304_A dog whimpers softly amidst the noise of a crowd_1.wav",
+        "pre_score": [
+            0.001608503982424736
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0356_Hubbub and speech noise are heard, mixed with the sound of rain_3.wav",
+        "pre_score": [
+            0.3224596679210663
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0348_A dog barks, followed by chuckles and chortles_4.wav",
+        "pre_score": [
+            0.5398914813995361
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0287_Water taps open, and then the sound of a bathtub filling or washing_4.wav",
+        "pre_score": [
+            0.7702431082725525
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0347_Rustling leaves are heard, with the ocean in the background_0.wav",
+        "pre_score": [
+            0.6234394311904907
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0364_Vibrations are felt, accompanied by a child speaking_0.wav",
+        "pre_score": [
+            0.9152241945266724
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0288_A narration or monologue plays, accompanied by a speech synthesizer_1.wav",
+        "pre_score": [
+            0.00034967801184393466
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0359_Fireworks explode in the sky, met with cheers from the crowd_4.wav",
+        "pre_score": [
+            0.7912073135375977
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0394_A bird sings or chirps, accompanied by video game music_0.wav",
+        "pre_score": [
+            0.9966968297958374
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0367_A car drives by, mixed with traffic and roadway noise_0.wav",
+        "pre_score": [
+            0.1381678730249405
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0304_A dog whimpers softly amidst the noise of a crowd_0.wav",
+        "pre_score": [
+            0.002184687415137887
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0338_Water sloshes around, with bees and wasps buzzing nearby_3.wav",
+        "pre_score": [
+            0.9975989460945129
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0292_Cutlery and silverware clink, followed by the babbling of a stream_0.wav",
+        "pre_score": [
+            0.6188859343528748
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0295_Male singing is heard, followed by the sound of a vehicle_1.wav",
+        "pre_score": [
+            0.20293162763118744
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0351_A bathtub fills or washes, with the rumble of a heavy engine_0.wav",
+        "pre_score": [
+            0.8900827765464783
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0263_An aircraft engine roars, mixed with the hum of pink noise_3.wav",
+        "pre_score": [
+            0.09055612981319427
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0295_Male singing is heard, followed by the sound of a vehicle_4.wav",
+        "pre_score": [
+            0.5879354476928711
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0324_A train horn blasts, mixed with the rhythm of dubstep music_4.wav",
+        "pre_score": [
+            0.17600396275520325
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0315_Tires skid, followed by the sound of video game music_2.wav",
+        "pre_score": [
+            0.9983811378479004
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0290_Inside a large room or hall, the sound of a bicycle is heard_3.wav",
+        "pre_score": [
+            0.015764417126774788
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0290_Inside a large room or hall, the sound of a bicycle is heard_2.wav",
+        "pre_score": [
+            0.2727244794368744
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0331_A cooing sound is heard, followed by a fart_0.wav",
+        "pre_score": [
+            0.27701157331466675
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0345_An aircraft engine roars, mixed with soundtrack music_3.wav",
+        "pre_score": [
+            0.6605830788612366
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0339_Techno music plays, accompanied by a snicker_4.wav",
+        "pre_score": [
+            0.9988110065460205
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0326_A fart sound is heard, followed by the melody of a violin_0.wav",
+        "pre_score": [
+            0.9950306415557861
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0340_Inside a large room or hall, a basketball bounces_2.wav",
+        "pre_score": [
+            0.02133999392390251
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0276_Gunfire echoes, and then the babbling of a stream is heard_1.wav",
+        "pre_score": [
+            0.29606327414512634
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0272_A goat bleats, and then human speech is heard_4.wav",
+        "pre_score": [
+            0.9649723768234253
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0329_A drum beats rhythmically, accompanied by the quack of a duck_1.wav",
+        "pre_score": [
+            0.034375060349702835
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0378_A sailboat sails through the water, and then a whimper is heard_4.wav",
+        "pre_score": [
+            0.8598729372024536
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0366_A vehicle moves, accompanied by a dog's 'bow-wow'_2.wav",
+        "pre_score": [
+            0.9911291599273682
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0311_The clip-clop of hooves is accompanied by the chirping and tweeting of birds_1.wav",
+        "pre_score": [
+            0.008949513547122478
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0292_Cutlery and silverware clink, followed by the babbling of a stream_4.wav",
+        "pre_score": [
+            0.9163137078285217
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0374_An engine starts, accompanied by a hissing sound_0.wav",
+        "pre_score": [
+            0.44672465324401855
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0376_A fart sound is heard, followed by a sound effect_2.wav",
+        "pre_score": [
+            0.9400336146354675
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0373_Whistling is heard, followed by the sound of a bus_4.wav",
+        "pre_score": [
+            0.5521429181098938
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0352_Wood creaks and cracks, accompanied by tender music_4.wav",
+        "pre_score": [
+            0.9941213726997375
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0267_A tire squeals sharply, and then a dog barks_1.wav",
+        "pre_score": [
+            0.00813391711562872
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0285_A car horn honks, and then a guitar strums_0.wav",
+        "pre_score": [
+            0.00028545671375468373
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0380_A vehicle moves along, accompanied by the roar of an aircraft engine_3.wav",
+        "pre_score": [
+            0.28707143664360046
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0336_Snoring sounds blend with environmental noise_4.wav",
+        "pre_score": [
+            0.3285345733165741
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0293_Conversation takes place, accompanied by the revving of a motorcycle_4.wav",
+        "pre_score": [
+            0.5731977224349976
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0340_Inside a large room or hall, a basketball bounces_3.wav",
+        "pre_score": [
+            0.023000236600637436
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0364_Vibrations are felt, accompanied by a child speaking_4.wav",
+        "pre_score": [
+            0.9793684482574463
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0324_A train horn blasts, mixed with the rhythm of dubstep music_0.wav",
+        "pre_score": [
+            0.5687153339385986
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0323_An explosion is heard, then the rumble of a truck_0.wav",
+        "pre_score": [
+            0.004016960971057415
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0274_A clock ticks with a 'tick-tock', and then the sound of a waterfall is heard_0.wav",
+        "pre_score": [
+            0.13132919371128082
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0303_Inside a large room or hall, the croaking of a frog is heard_3.wav",
+        "pre_score": [
+            0.29165828227996826
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0377_A lawn mower hums, accompanied by narration or a monologue_2.wav",
+        "pre_score": [
+            0.0073839942924678326
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0345_An aircraft engine roars, mixed with soundtrack music_0.wav",
+        "pre_score": [
+            0.559867799282074
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0323_An explosion is heard, then the rumble of a truck_4.wav",
+        "pre_score": [
+            0.6447932720184326
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0285_A car horn honks, and then a guitar strums_1.wav",
+        "pre_score": [
+            0.9984613656997681
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0307_Video game music plays, accompanied by the sound of something being rubbed_2.wav",
+        "pre_score": [
+            0.9956111311912537
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0269_A violin plays softly, and then the sound of rubbing is heard_4.wav",
+        "pre_score": [
+            0.18682140111923218
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0287_Water taps open, and then the sound of a bathtub filling or washing_0.wav",
+        "pre_score": [
+            0.9398059248924255
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0329_A drum beats rhythmically, accompanied by the quack of a duck_3.wav",
+        "pre_score": [
+            0.023882437497377396
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0373_Whistling is heard, followed by the sound of a bus_3.wav",
+        "pre_score": [
+            0.5570959448814392
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0289_A sink fills or washes, and then the sound of a subway or metro underground_4.wav",
+        "pre_score": [
+            0.03613773360848427
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0396_A hissing sound is heard, followed by the ringing of a bicycle bell_4.wav",
+        "pre_score": [
+            0.26822975277900696
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0268_An animal sound is heard, followed by the rumble of thunder_3.wav",
+        "pre_score": [
+            0.9548138976097107
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0335_Telephone dialing tones are heard, followed by tender music_2.wav",
+        "pre_score": [
+            0.783007025718689
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0270_A toilet flushes, and then insects buzz around_3.wav",
+        "pre_score": [
+            0.8359650373458862
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0377_A lawn mower hums, accompanied by narration or a monologue_0.wav",
+        "pre_score": [
+            0.398730993270874
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0357_Dance music plays, accompanied by a speech synthesizer_2.wav",
+        "pre_score": [
+            0.8280524611473083
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0289_A sink fills or washes, and then the sound of a subway or metro underground_2.wav",
+        "pre_score": [
+            0.20520785450935364
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0330_Livestock and farm animals make noise, with the buzzing of a fly_0.wav",
+        "pre_score": [
+            0.9049811959266663
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0272_A goat bleats, and then human speech is heard_1.wav",
+        "pre_score": [
+            0.9467158913612366
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0374_An engine starts, accompanied by a hissing sound_1.wav",
+        "pre_score": [
+            0.6752349734306335
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0351_A bathtub fills or washes, with the rumble of a heavy engine_3.wav",
+        "pre_score": [
+            0.004357941914349794
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0327_An air horn or truck horn sounds, amidst the rustling of leaves_3.wav",
+        "pre_score": [
+            0.0010411374969407916
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0313_Crying and sobbing are heard, contrasted with chuckles and chortles_0.wav",
+        "pre_score": [
+            0.656670093536377
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0396_A hissing sound is heard, followed by the ringing of a bicycle bell_1.wav",
+        "pre_score": [
+            0.1315634697675705
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0276_Gunfire echoes, and then the babbling of a stream is heard_4.wav",
+        "pre_score": [
+            0.5319430828094482
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0294_Wood creaks and cracks, and then a whimper is heard_3.wav",
+        "pre_score": [
+            0.3439219295978546
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0316_Frogs croak, and then cheering is heard in the background_0.wav",
+        "pre_score": [
+            0.056917112320661545
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0352_Wood creaks and cracks, accompanied by tender music_1.wav",
+        "pre_score": [
+            0.9439623355865479
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0266_A civil defense siren wails, followed by the rumble of thunder_2.wav",
+        "pre_score": [
+            0.9766308069229126
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0287_Water taps open, and then the sound of a bathtub filling or washing_3.wav",
+        "pre_score": [
+            0.9905171990394592
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0333_The clickety-clack of something is heard, paired with the sound of rain_3.wav",
+        "pre_score": [
+            0.5061184167861938
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0299_Water trickles and dribbles, followed by the sound of a propeller or airscrew_1.wav",
+        "pre_score": [
+            0.5326565504074097
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0388_Sheep bleat, accompanied by the sizzling of food_0.wav",
+        "pre_score": [
+            0.3775593638420105
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0398_Urban or manmade sounds are heard, along with the clip-clop of hooves_0.wav",
+        "pre_score": [
+            0.4481036961078644
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0373_Whistling is heard, followed by the sound of a bus_0.wav",
+        "pre_score": [
+            0.47939109802246094
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0369_A snicker is heard, then the sound of a waterfall_4.wav",
+        "pre_score": [
+            0.12785299122333527
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0355_Laughter fills the air, accompanied by a plucked string instrument_0.wav",
+        "pre_score": [
+            0.1049327403306961
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0381_A speech synthesizer speaks, accompanied by the strumming of an acoustic guitar_1.wav",
+        "pre_score": [
+            0.17917099595069885
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0335_Telephone dialing tones are heard, followed by tender music_3.wav",
+        "pre_score": [
+            0.8302286863327026
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0325_A goose honks, accompanied by the roar of an aircraft engine_4.wav",
+        "pre_score": [
+            0.9810048937797546
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0316_Frogs croak, and then cheering is heard in the background_1.wav",
+        "pre_score": [
+            0.8633638620376587
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0323_An explosion is heard, then the rumble of a truck_1.wav",
+        "pre_score": [
+            0.5283641219139099
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0296_Fireworks explode, accompanied by the chirping and tweeting of birds_4.wav",
+        "pre_score": [
+            0.0015242855297401547
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0333_The clickety-clack of something is heard, paired with the sound of rain_2.wav",
+        "pre_score": [
+            0.24779051542282104
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0319_A dog whimpers, with traffic and roadway noise in the background_4.wav",
+        "pre_score": [
+            0.7225760817527771
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0280_A subway or metro moves underground, interrupted by the splash and splatter of water_1.wav",
+        "pre_score": [
+            0.8812295198440552
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0295_Male singing is heard, followed by the sound of a vehicle_2.wav",
+        "pre_score": [
+            0.5908141732215881
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0269_A violin plays softly, and then the sound of rubbing is heard_3.wav",
+        "pre_score": [
+            0.3984716236591339
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0371_A duck quacks, followed by the neighing and whinnying of a horse_3.wav",
+        "pre_score": [
+            0.2863629162311554
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0393_Screaming is heard, followed by the sloshing of water_0.wav",
+        "pre_score": [
+            0.9967148303985596
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0348_A dog barks, followed by chuckles and chortles_2.wav",
+        "pre_score": [
+            0.6576777100563049
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0335_Telephone dialing tones are heard, followed by tender music_1.wav",
+        "pre_score": [
+            0.9951090216636658
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0310_Animal sounds are heard, along with the hissing of steam_1.wav",
+        "pre_score": [
+            0.5020354390144348
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0350_A smoke detector or alarm goes off, accompanied by the sound of a stream_4.wav",
+        "pre_score": [
+            0.6490828394889832
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0273_Gunfire or a fusillade rings out, and then birds chirp and tweet_0.wav",
+        "pre_score": [
+            0.5560979843139648
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0272_A goat bleats, and then human speech is heard_3.wav",
+        "pre_score": [
+            0.9218651652336121
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0314_The sound of snoring is interrupted by the beat of dubstep music_2.wav",
+        "pre_score": [
+            0.9987433552742004
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0396_A hissing sound is heard, followed by the ringing of a bicycle bell_3.wav",
+        "pre_score": [
+            0.9712770581245422
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0277_A cooing sound is heard, followed by the sound of a bus_1.wav",
+        "pre_score": [
+            0.9939813017845154
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0354_Whistling is heard, followed by the sloshing of water_1.wav",
+        "pre_score": [
+            0.9978379607200623
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0366_A vehicle moves, accompanied by a dog's 'bow-wow'_3.wav",
+        "pre_score": [
+            0.6543015837669373
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0399_People chatter inside a large room or hall_4.wav",
+        "pre_score": [
+            0.46298497915267944
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0360_Background music plays, interrupted by the flush of a toilet_1.wav",
+        "pre_score": [
+            0.9999998807907104
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0387_A tap opens, and then the sound of a sink filling or washing is heard_4.wav",
+        "pre_score": [
+            0.7137855291366577
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0395_Chickens and roosters cluck and crow, among other livestock and farm animals_2.wav",
+        "pre_score": [
+            0.1444787234067917
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0392_A waterfall cascades, accompanied by the ringing of a bell_4.wav",
+        "pre_score": [
+            0.8637235164642334
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0287_Water taps open, and then the sound of a bathtub filling or washing_1.wav",
+        "pre_score": [
+            0.9814380407333374
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0357_Dance music plays, accompanied by a speech synthesizer_3.wav",
+        "pre_score": [
+            0.41878530383110046
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0314_The sound of snoring is interrupted by the beat of dubstep music_1.wav",
+        "pre_score": [
+            0.5225626230239868
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0372_Rhythm and blues music plays, mixed with the sounds of a subway or metro underground_3.wav",
+        "pre_score": [
+            0.19458356499671936
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0373_Whistling is heard, followed by the sound of a bus_1.wav",
+        "pre_score": [
+            0.9438907504081726
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0269_A violin plays softly, and then the sound of rubbing is heard_0.wav",
+        "pre_score": [
+            0.6520708203315735
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0375_A musical instrument plays, interrupted by the blast of an air horn or truck horn_2.wav",
+        "pre_score": [
+            2.1718866264563985e-05
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0270_A toilet flushes, and then insects buzz around_4.wav",
+        "pre_score": [
+            0.9534669518470764
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0317_A tap opens, and then the sound of an engine is heard_3.wav",
+        "pre_score": [
+            0.05766861140727997
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0334_A bus passes by, followed by the sound of a sliding door_0.wav",
+        "pre_score": [
+            0.23830750584602356
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0324_A train horn blasts, mixed with the rhythm of dubstep music_2.wav",
+        "pre_score": [
+            0.030072320252656937
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0330_Livestock and farm animals make noise, with the buzzing of a fly_2.wav",
+        "pre_score": [
+            0.44284069538116455
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0384_A fart sound is heard, followed by female singing_2.wav",
+        "pre_score": [
+            0.48410314321517944
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0348_A dog barks, followed by chuckles and chortles_1.wav",
+        "pre_score": [
+            0.5784876942634583
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0387_A tap opens, and then the sound of a sink filling or washing is heard_0.wav",
+        "pre_score": [
+            0.7334757447242737
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0279_A train moves along the tracks, accompanied by the sound of a motor vehicle on the road_0.wav",
+        "pre_score": [
+            0.6286913752555847
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0368_A car horn honks, followed by the squeal of tires_3.wav",
+        "pre_score": [
+            0.1872856318950653
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0398_Urban or manmade sounds are heard, along with the clip-clop of hooves_3.wav",
+        "pre_score": [
+            0.006937649566680193
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0348_A dog barks, followed by chuckles and chortles_0.wav",
+        "pre_score": [
+            0.37356290221214294
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0264_A sailboat sails through the water, and then a frog croaks_3.wav",
+        "pre_score": [
+            0.9787607789039612
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0331_A cooing sound is heard, followed by a fart_2.wav",
+        "pre_score": [
+            0.9340053200721741
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0321_Wind noise is picked up by a microphone, and then a duck quacks_3.wav",
+        "pre_score": [
+            0.1157112568616867
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0302_A waterfall cascades down, accompanied by the sound of a vehicle accelerating_1.wav",
+        "pre_score": [
+            0.99887615442276
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0317_A tap opens, and then the sound of an engine is heard_0.wav",
+        "pre_score": [
+            0.6051050424575806
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0292_Cutlery and silverware clink, followed by the babbling of a stream_1.wav",
+        "pre_score": [
+            0.23789887130260468
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0286_Food sizzles as it fries, and then a goat bleats_4.wav",
+        "pre_score": [
+            0.9475015997886658
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0323_An explosion is heard, then the rumble of a truck_3.wav",
+        "pre_score": [
+            0.06612375378608704
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0271_A violin plays a melody, followed by the splash and splatter of water_0.wav",
+        "pre_score": [
+            0.9960201382637024
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0290_Inside a large room or hall, the sound of a bicycle is heard_1.wav",
+        "pre_score": [
+            0.42755672335624695
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0399_People chatter inside a large room or hall_0.wav",
+        "pre_score": [
+            0.9169607162475586
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0389_An air horn or truck horn sounds, followed by whispering_1.wav",
+        "pre_score": [
+            0.002861974760890007
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0321_Wind noise is picked up by a microphone, and then a duck quacks_2.wav",
+        "pre_score": [
+            0.38289690017700195
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0268_An animal sound is heard, followed by the rumble of thunder_0.wav",
+        "pre_score": [
+            0.4677266776561737
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0349_A hissing sound is heard, and then a sliding door moves_0.wav",
+        "pre_score": [
+            0.2660761773586273
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0350_A smoke detector or alarm goes off, accompanied by the sound of a stream_3.wav",
+        "pre_score": [
+            0.5790693163871765
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0383_A sailboat or sailing ship moves through the water, accompanied by whispering_1.wav",
+        "pre_score": [
+            0.8245785236358643
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0394_A bird sings or chirps, accompanied by video game music_4.wav",
+        "pre_score": [
+            0.9999465942382812
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0283_Singing fills the air, and then the sound of a fixed-wing aircraft or airplane_1.wav",
+        "pre_score": [
+            0.7851099967956543
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0351_A bathtub fills or washes, with the rumble of a heavy engine_1.wav",
+        "pre_score": [
+            0.9367960691452026
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0303_Inside a large room or hall, the croaking of a frog is heard_0.wav",
+        "pre_score": [
+            0.9965677261352539
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0372_Rhythm and blues music plays, mixed with the sounds of a subway or metro underground_1.wav",
+        "pre_score": [
+            0.9749581217765808
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0320_A sound effect plays, followed by a beep or bleep_3.wav",
+        "pre_score": [
+            0.8307886719703674
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0289_A sink fills or washes, and then the sound of a subway or metro underground_3.wav",
+        "pre_score": [
+            0.004139674827456474
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0310_Animal sounds are heard, along with the hissing of steam_3.wav",
+        "pre_score": [
+            0.9717453122138977
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0398_Urban or manmade sounds are heard, along with the clip-clop of hooves_4.wav",
+        "pre_score": [
+            0.16889424622058868
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0347_Rustling leaves are heard, with the ocean in the background_3.wav",
+        "pre_score": [
+            0.057849347591400146
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0302_A waterfall cascades down, accompanied by the sound of a vehicle accelerating_0.wav",
+        "pre_score": [
+            0.061672430485486984
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0358_A thunderstorm rages outside, with the cries of a baby inside_1.wav",
+        "pre_score": [
+            0.4323028326034546
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0302_A waterfall cascades down, accompanied by the sound of a vehicle accelerating_4.wav",
+        "pre_score": [
+            0.5800700187683105
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0308_Video game music fills the air, mixed with the hum of a medium engine_1.wav",
+        "pre_score": [
+            0.6531190276145935
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0385_A fly buzzes around, and then the sound of a race car or auto racing is heard_3.wav",
+        "pre_score": [
+            0.7981075644493103
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0284_An engine roars to life, near a boat or water vehicle_0.wav",
+        "pre_score": [
+            0.25662732124328613
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0281_Laughter and chuckles are heard, and then the sound of crying and sobbing_0.wav",
+        "pre_score": [
+            0.148825541138649
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0281_Laughter and chuckles are heard, and then the sound of crying and sobbing_3.wav",
+        "pre_score": [
+            0.1306450217962265
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0390_A dog barks, and then the sound of tools is heard_4.wav",
+        "pre_score": [
+            0.05870937556028366
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0264_A sailboat sails through the water, and then a frog croaks_2.wav",
+        "pre_score": [
+            0.9474111795425415
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0324_A train horn blasts, mixed with the rhythm of dubstep music_1.wav",
+        "pre_score": [
+            0.9048528075218201
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0365_A sound effect plays, followed by the strumming of an acoustic guitar_0.wav",
+        "pre_score": [
+            0.9574397206306458
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0308_Video game music fills the air, mixed with the hum of a medium engine_3.wav",
+        "pre_score": [
+            0.9475333094596863
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0316_Frogs croak, and then cheering is heard in the background_4.wav",
+        "pre_score": [
+            0.20898692309856415
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0351_A bathtub fills or washes, with the rumble of a heavy engine_2.wav",
+        "pre_score": [
+            0.4178187847137451
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0393_Screaming is heard, followed by the sloshing of water_4.wav",
+        "pre_score": [
+            0.9880093932151794
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0395_Chickens and roosters cluck and crow, among other livestock and farm animals_3.wav",
+        "pre_score": [
+            0.2059936374425888
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0363_Dishes, pots, and pans clink, mixed with singing_4.wav",
+        "pre_score": [
+            0.060374800115823746
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0311_The clip-clop of hooves is accompanied by the chirping and tweeting of birds_0.wav",
+        "pre_score": [
+            0.5765560269355774
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0378_A sailboat sails through the water, and then a whimper is heard_0.wav",
+        "pre_score": [
+            0.6792018413543701
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0307_Video game music plays, accompanied by the sound of something being rubbed_1.wav",
+        "pre_score": [
+            0.8128247261047363
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0347_Rustling leaves are heard, with the ocean in the background_1.wav",
+        "pre_score": [
+            0.0071028852835297585
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0282_Typing on a keyboard, accompanied by a dog's whimper_3.wav",
+        "pre_score": [
+            0.6842778921127319
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0360_Background music plays, interrupted by the flush of a toilet_4.wav",
+        "pre_score": [
+            1.0
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0320_A sound effect plays, followed by a beep or bleep_2.wav",
+        "pre_score": [
+            0.6172236800193787
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0391_A sound effect plays, followed by the tick-tock of a clock_2.wav",
+        "pre_score": [
+            0.9999486207962036
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0285_A car horn honks, and then a guitar strums_2.wav",
+        "pre_score": [
+            0.8976830244064331
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0397_A thunderstorm rages outside, while food fries indoors_3.wav",
+        "pre_score": [
+            0.7954602241516113
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0334_A bus passes by, followed by the sound of a sliding door_3.wav",
+        "pre_score": [
+            0.7030298709869385
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0312_Water fills or washes a sink, and a medium engine rumbles nearby_3.wav",
+        "pre_score": [
+            0.19133096933364868
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0295_Male singing is heard, followed by the sound of a vehicle_0.wav",
+        "pre_score": [
+            0.3007463216781616
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0322_A car horn honks, followed by the sound of an engine idling_4.wav",
+        "pre_score": [
+            0.00019923096988350153
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0294_Wood creaks and cracks, and then a whimper is heard_0.wav",
+        "pre_score": [
+            0.07521615922451019
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0300_A dog barks, followed by the sound of someone burping_2.wav",
+        "pre_score": [
+            0.8199411630630493
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0388_Sheep bleat, accompanied by the sizzling of food_3.wav",
+        "pre_score": [
+            0.7837806344032288
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0398_Urban or manmade sounds are heard, along with the clip-clop of hooves_1.wav",
+        "pre_score": [
+            0.11616777628660202
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0279_A train moves along the tracks, accompanied by the sound of a motor vehicle on the road_1.wav",
+        "pre_score": [
+            0.5956252217292786
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0319_A dog whimpers, with traffic and roadway noise in the background_1.wav",
+        "pre_score": [
+            0.00293525168672204
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0271_A violin plays a melody, followed by the splash and splatter of water_2.wav",
+        "pre_score": [
+            1.0
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0266_A civil defense siren wails, followed by the rumble of thunder_0.wav",
+        "pre_score": [
+            0.7706554532051086
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0327_An air horn or truck horn sounds, amidst the rustling of leaves_1.wav",
+        "pre_score": [
+            0.2595541775226593
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0318_Fireworks light up the sky in a rural or natural setting_1.wav",
+        "pre_score": [
+            0.05301184579730034
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0283_Singing fills the air, and then the sound of a fixed-wing aircraft or airplane_3.wav",
+        "pre_score": [
+            0.37225469946861267
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0326_A fart sound is heard, followed by the melody of a violin_1.wav",
+        "pre_score": [
+            0.9884192943572998
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0325_A goose honks, accompanied by the roar of an aircraft engine_3.wav",
+        "pre_score": [
+            0.4134080410003662
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0275_A telephone rings, accompanied by the rumble of a heavy engine_4.wav",
+        "pre_score": [
+            0.9093573689460754
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0299_Water trickles and dribbles, followed by the sound of a propeller or airscrew_3.wav",
+        "pre_score": [
+            0.47729307413101196
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0311_The clip-clop of hooves is accompanied by the chirping and tweeting of birds_2.wav",
+        "pre_score": [
+            0.37643030285835266
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0328_Inside a large room or hall, a vehicle horn honks_4.wav",
+        "pre_score": [
+            0.20223212242126465
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0286_Food sizzles as it fries, and then a goat bleats_2.wav",
+        "pre_score": [
+            0.978162944316864
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0391_A sound effect plays, followed by the tick-tock of a clock_3.wav",
+        "pre_score": [
+            0.13138523697853088
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0277_A cooing sound is heard, followed by the sound of a bus_3.wav",
+        "pre_score": [
+            0.27498865127563477
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0340_Inside a large room or hall, a basketball bounces_4.wav",
+        "pre_score": [
+            0.3289504945278168
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0372_Rhythm and blues music plays, mixed with the sounds of a subway or metro underground_2.wav",
+        "pre_score": [
+            0.19411280751228333
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0399_People chatter inside a large room or hall_3.wav",
+        "pre_score": [
+            0.8829869031906128
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0305_Fireworks explode in the sky, while someone types on a computer keyboard_0.wav",
+        "pre_score": [
+            0.004324147943407297
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0377_A lawn mower hums, accompanied by narration or a monologue_3.wav",
+        "pre_score": [
+            0.0648973360657692
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0357_Dance music plays, accompanied by a speech synthesizer_1.wav",
+        "pre_score": [
+            0.9284442663192749
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0375_A musical instrument plays, interrupted by the blast of an air horn or truck horn_1.wav",
+        "pre_score": [
+            0.0643748864531517
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0366_A vehicle moves, accompanied by a dog's 'bow-wow'_0.wav",
+        "pre_score": [
+            0.9001666307449341
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0344_A pig oinks, accompanied by a sound effect_4.wav",
+        "pre_score": [
+            0.740534782409668
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0381_A speech synthesizer speaks, accompanied by the strumming of an acoustic guitar_0.wav",
+        "pre_score": [
+            0.7051886916160583
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0305_Fireworks explode in the sky, while someone types on a computer keyboard_1.wav",
+        "pre_score": [
+            0.12081150710582733
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0392_A waterfall cascades, accompanied by the ringing of a bell_3.wav",
+        "pre_score": [
+            0.9718125462532043
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0344_A pig oinks, accompanied by a sound effect_3.wav",
+        "pre_score": [
+            0.02753710001707077
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0299_Water trickles and dribbles, followed by the sound of a propeller or airscrew_0.wav",
+        "pre_score": [
+            0.8312298059463501
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0371_A duck quacks, followed by the neighing and whinnying of a horse_2.wav",
+        "pre_score": [
+            0.12879100441932678
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0378_A sailboat sails through the water, and then a whimper is heard_3.wav",
+        "pre_score": [
+            0.9079621434211731
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0353_A plucked string instrument plays, set against background music_4.wav",
+        "pre_score": [
+            0.9887322187423706
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0278_Traffic and roadway noise mix with the sound of snoring_0.wav",
+        "pre_score": [
+            0.7695004940032959
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0368_A car horn honks, followed by the squeal of tires_2.wav",
+        "pre_score": [
+            0.21348610520362854
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0359_Fireworks explode in the sky, met with cheers from the crowd_3.wav",
+        "pre_score": [
+            0.34262779355049133
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0328_Inside a large room or hall, a vehicle horn honks_3.wav",
+        "pre_score": [
+            2.892444626922952e-06
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0314_The sound of snoring is interrupted by the beat of dubstep music_3.wav",
+        "pre_score": [
+            0.7969266772270203
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0341_A snicker is heard, then the sound of rustling_3.wav",
+        "pre_score": [
+            0.3537002205848694
+        ]
+    },
+    {
+        "audio": "/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio/0371_A duck quacks, followed by the neighing and whinnying of a horse_1.wav",
+        "pre_score": [
+            0.5745081901550293
+        ]
+    }
+]
