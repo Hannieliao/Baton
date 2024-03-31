@@ -1,0 +1,827 @@
+[
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/jXkLS_QzUrI_29.wav",
+        "captions": "A small motor is running, five hisses and a meow occur, then five more hisses and a meow occur"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/yfYNPWs7mWY_380.wav",
+        "captions": "A man speaking, followed by a door shutting, and then the man speaks some more"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/AagLJkfrFMk_60.wav",
+        "captions": "Water hissing followed by a man breathing loudly then a toilet flushing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Tgxst7Ft9js_20.wav",
+        "captions": "Sanding and filing then a man speaks"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/-FW109cbv0g_30.wav",
+        "captions": "Speech and then a sneeze and laughter"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/o3mZR8OvPko_30.wav",
+        "captions": "A racing vehicle accelerating and revving while tires skid and squeal"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/IPfaRF76gVU_13.wav",
+        "captions": "A truck engine driving by while emergency sirens wail as a crowd of people talk followed by a man speaking over an intercom"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/7QN3lwOzfdg_0.wav",
+        "captions": "An adult speaks over a telephone and then an adult male speaks, and this pattern repeats three times"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/i2yhbckq3p0_110.wav",
+        "captions": "A motorcycle engine running as several vehicle horns honk while a car alarm rings in the distance"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/IdBDl9Wr51A_10.wav",
+        "captions": "Synthesized laser effects and explosions as a man talks followed by a deeper voiced man talking then woman laughing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/KtTLsveexOg_210.wav",
+        "captions": "A sewing machine running as a steam hisses followed by a machine motor sharply running in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/xqtrbqDlz28_20.wav",
+        "captions": "A sneeze occurs followed by sniffling and the start of another sneeze, while a baby coos in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/qZEIs6tS5vk_0.wav",
+        "captions": "A vehicle engine revving followed by tires skidding as a group of people talk in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/H7-orYrKBeo_70.wav",
+        "captions": "A group of people talking as an infant cries while a muffled bus engine runs"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/MvHpNzDpC6Q_50.wav",
+        "captions": "Men riding in the car talking then man burps loudly and then the other chuckles"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/hrv6fwnmBkY_28.wav",
+        "captions": "A dog whimpering followed by laughing and barking."
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/9U8COLzEegs_420.wav",
+        "captions": "Water running softly in the background followed by several shrill beeps and a man speaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/rvtA7c1I4xo_0.wav",
+        "captions": "Whooshing of wind followed by a man speaking with sneakers squeaking on hardwood"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/YEYeQ0lIkBQ_0.wav",
+        "captions": "A man talking then laughing as a ducks quack"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/kXjzsroVTtw_20.wav",
+        "captions": "Birds chirp and sing in the background, while an adult male speaks and crunching footfalls occur"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/yVjivgsU2aA_10.wav",
+        "captions": "An engine running followed by the engine revving and tires screeching"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/-AheI8Epim4_30.wav",
+        "captions": "Wind noise followed by a tapping noise while people are talking in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/mYQrjcYNrW0_20.wav",
+        "captions": "A bus horn honking as wind is blowing into a microphone before a bus drives by"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/inSvboaSRwA_100.wav",
+        "captions": "A machine motor running as a man is speaking followed by rapid buzzing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/8ZH_PoK0clI_14.wav",
+        "captions": "Footsteps then a woman speaks followed by a door clanging"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/huMLK0oA3L8_110.wav",
+        "captions": "A man talking then whistling as guitar music plays"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/B8rdur4aams_30.wav",
+        "captions": "Rustling and shaking followed by a horn and gusts of wind"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/_9mgOkzm-xg_120.wav",
+        "captions": "A man speaks as food sizzles followed by some cracks"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/pO8kbg9IJnc_120.wav",
+        "captions": "Some light clicks followed by a man speaking and water splashing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/4xrL4TSgHwU_30.wav",
+        "captions": "A vehicle engine stuttering while starting up then running idle"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/BLMWD6fxhpo_22.wav",
+        "captions": "A grunt from a person followed by footsteps and oinks from a pig with a single squeal"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/7upINC4seBw_30.wav",
+        "captions": "A man talking as an idle motorboat engine runs and water trickles while wind is blowing into a microphone"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/PYP-r0nvbFk_30.wav",
+        "captions": "Wind blows and a man speaks followed by a goat bleating"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/3hzy-FL24no_17.wav",
+        "captions": "A stream of water flowing and trickling as a small motor hum in the background followed by camera muffling"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/4s2rRnu2PZo_30.wav",
+        "captions": "Music plays continuously along with swooshing followed by a man speaking quickly"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Agh2EKINlSw_30.wav",
+        "captions": "Hard rain falls on a metal surface, then three adult males speak while soft rhythmic whooshing occurs"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/7P6lcyeDKNI_0.wav",
+        "captions": "A bicycle peddling on dirt and gravel followed by a man speaking then laughing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/35b9BSmN5JM_1.wav",
+        "captions": "A wooden thud as an idle car engine runs then accelerates"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/dxow2DcTrwk_70.wav",
+        "captions": "A man and a woman talking while rain falls, followed by a crash of thunder"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/8b9z7N25DmU_60.wav",
+        "captions": "A bus engine driving in the distance then nearby followed by compressed air releasing while a woman and a child talk in the distance"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/9ucb5HYO8ps_20.wav",
+        "captions": "A burp followed by laughter and speech"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Zsf2YvJfCKw_20.wav",
+        "captions": "Water trickling followed by a toilet flushing then liquid draining through a pipe"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Me4npKmtchA_270.wav",
+        "captions": "Bubbles gurgling and water spraying as a man speaks softly while crowd of people talk in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/g6CY7qvu81k_0.wav",
+        "captions": "Music followed by male speech and distant sizzling"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/taYKM1OSTwE_120.wav",
+        "captions": "Sheep baaing as gusts of wind blows followed by a person chuckling"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/0Dt-pH0pW-Y_20.wav",
+        "captions": "A motorcycle running and male speech and then laughing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/2ABngPM3raQ_30.wav",
+        "captions": "A man talking as music is playing followed by a frog croaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/E3Q1jfTeuWs_30.wav",
+        "captions": "A baby cries followed by rustling and heavy breathing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/yVVLq4ao1Ck_30.wav",
+        "captions": "Insects trill in the background, while birds chirp and flies buzz"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/fGGYeXR_LS8_30.wav",
+        "captions": "Whistling is ongoing while an adult male speaks, and water is pattering in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/o7-X8DAToGc_170.wav",
+        "captions": "A vehicle driving by with tires briefly skidding and accelerating then slowing down"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Rp4Ct_TQvAM_520.wav",
+        "captions": "Rain falling as a machine motor runs followed by a man speaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/os_2U4xqTqw_100.wav",
+        "captions": "Heavy footsteps walking on a hard surface followed by a man grunting then two explosions"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/OFVzrakJhbw_30.wav",
+        "captions": "A woman laughing followed by the bleating of sheep and a soft breeze"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/f8WPf5F22xI_40.wav",
+        "captions": "Sneezing followed by a ticking clock and a man speaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/S0SQyFXbqF8_30.wav",
+        "captions": "A child talking then laughing with a man as an animal gurgles"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/KSHpYhuTotY_210.wav",
+        "captions": "A man speaking as footsteps walk on grass while insects are buzzing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/b1PXsfgQw5w_0.wav",
+        "captions": "A group of people laughing followed by a man talking then more laughter"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/W7OJevEgq7w_0.wav",
+        "captions": "A dog whimpering and barking while breathing rapidly"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Pb6MqpdX5Jw_40.wav",
+        "captions": "A horse gallops then trot on grass as gusts of wind blow and thunderclaps in the distance"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/n4VktYihtJU_5.wav",
+        "captions": "Strong gusts of wind are followed by cheers and shouts from several people plus the chatter of girl"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Dn3buZWMzwY_20.wav",
+        "captions": "A man and a kid laughing followed by another man speaking as a person snores"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Ni3dIj90Oa4_10.wav",
+        "captions": "Explosion followed by man speaking a short bit of music at the end"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/xpZna_FwDhI_70.wav",
+        "captions": "A click is followed by a woman speaking and then a sewing machine stitching"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Efk5kdn9lR8_21.wav",
+        "captions": "Child talking then door crashing and her screaming"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Fc9pG54DDJM_30.wav",
+        "captions": "A toilet flushing followed by paper crinkling and a door slamming in the distance"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/a3GzZKxUTy8_50.wav",
+        "captions": "Birds chirping and then a dog barking and a duck quaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/VjSEIRnLAh8_30.wav",
+        "captions": "Food sizzling with some knocking and banging followed by a woman speaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/7cHRSfbp7tc_26.wav",
+        "captions": "A group of people talking as dishes clack followed by wood knocking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/6TO9PEGpZcQ_30.wav",
+        "captions": "An emergency siren wailing followed by a large truck engine running idle"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/R_g4RpU9mO0_30.wav",
+        "captions": "A motorboat engine running idle then accelerating as water trickles followed by water spraying"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/ItS07xtdi4s_30.wav",
+        "captions": "Fire igniting as a motor runs followed by an electronic beep and vehicle engines running idle then car horns honking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/_GI7meqlYZk_30.wav",
+        "captions": "A cat screaming then meowing as a young boy is talking during a series of electronic buzzing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/MBP4RcnwGZw_40.wav",
+        "captions": "A woman talking then laughing as a crowd of people talk in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/oiIi6H83Y38_0.wav",
+        "captions": "A motorbike engine starting up then revving as a man talks in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/FJkvAMLmejY_7.wav",
+        "captions": "People whisper and then a horn sounds and people laugh"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/SePTNAN7s-w_20.wav",
+        "captions": "A female speech and then a toilet flushing followed by a female speech."
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/NeZerAPXR-A_0.wav",
+        "captions": "Woman laughing and talking with another man and woman while something is clanging"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/7MLERaOgK_Y_200.wav",
+        "captions": "A girl sings while a sewing machine stitches and then speaks when it stops"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Ivg_q4t-3w0_1.wav",
+        "captions": "White noise followed by brief, muffled speech and rustling"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/jjfUaMQaG1A_310.wav",
+        "captions": "A man talking followed by plastic clacking then a power tool drilling"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/w_Utn3CwAXE_50.wav",
+        "captions": "A toilet flushes followed by a metal latch clanking then a door slowly creaking open"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/jj2RyNDj7no_440.wav",
+        "captions": "Birds chirping as insects buzzing followed by a man talking in the distance"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/lHh0SwUhP8U_120.wav",
+        "captions": "Birds chirp followed by some clicking then gunshots"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/3fomsZXG3aM_3.wav",
+        "captions": "A vehicle engine running idle then revving after two metal clicks"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/fsBR7e_X_0Y_40.wav",
+        "captions": "An infant yelling as a young boy talks while a hard surface is slapped several times"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/6ukYSXzfEgQ_20.wav",
+        "captions": "Metal clacking followed by water flowing and splashing into a container then draining down a pipe"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/0G7rb74R-2A_30.wav",
+        "captions": "A man speaking on a microphone as a crowd of people laugh followed by dinner plates clacking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/YH4qi8Ul6v0_30.wav",
+        "captions": "A man talking as an infant is crying followed by a man humming"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/nq0BF9zGkzg_30.wav",
+        "captions": "An animal cries, followed by a crash, then two people speak with one another"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/41D0yXSBqfI_30.wav",
+        "captions": "Pigeons cooing and bird wings flapping while gravel shuffles and wood clacks"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/ajheseWZmmU_70.wav",
+        "captions": "A cat meowing as a person makes kissing noises followed by a guy chuckling"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/pCQEWAFGEjc_30.wav",
+        "captions": "A steam engine running on railroad tracks as steam releases and hisses while group of people talk in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/HqndxoujCYI_30.wav",
+        "captions": "A bell chiming as a clock ticks and a man talks through a television speaker in the background followed by a muffled bell chiming"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/glAeihz0NAM_130.wav",
+        "captions": "Kids laughing then talking followed by a young man talking as wind blows into a microphone"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/nD1K1Zo0qrM_10.wav",
+        "captions": "A series of machine gunfire and two gunshots firing as a jet aircraft flies by followed by soft music playing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/J0yeFeKvIt8_30.wav",
+        "captions": "Wind blowing and leaves rustling followed by plastic clicking and wind blowing into a microphone"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/BA-lFjpzad4_30.wav",
+        "captions": "Motor vehicle traffic is ongoing, and a motorcycle engine accelerates and then decelerates in the foreground"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/0yxEvdnimGg_30.wav",
+        "captions": "Dogs are barking with wind noise while people are speaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/cPiSd5nJLrI_30.wav",
+        "captions": "Screaming and a big explosion and then screaming"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/9zstu_IfAm4_30.wav",
+        "captions": "A truck horn honking as a large truck engine drives by while a crowd of people talk in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/5ye0X5saadg_30.wav",
+        "captions": "Helicopter running, speech on a radio, and then gunfire"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/CeRoaEcqUgM_30.wav",
+        "captions": "A motorboat driving by as water splashes followed by wind blowing into a microphone"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/UAmDLPjNyMg_40.wav",
+        "captions": "An aircraft flying as a person briefly sniffs aloud while wind blows into a microphone"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/KJhGuhNHToA_30.wav",
+        "captions": "Brief silence followed by wood shuffling on a stone surface"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/atmDP_fmK_8_0.wav",
+        "captions": "A low loud hum gets lower followed by an explosion"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/E6FH_xp3I54_60.wav",
+        "captions": "A man is speaking followed by birds chirping"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/HZ9O6sc7cLA_180.wav",
+        "captions": "A woman speaks followed by a dog barking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/14ekd4nkpwc_28.wav",
+        "captions": "An infant crying followed by a man laughing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/4sb9jN0SgTM_26.wav",
+        "captions": "A motor vehicle engine runs and revs, then it stops and an adult male speaks"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/2sZhC_mKeic_30.wav",
+        "captions": "A cat meowing followed by metal clacking as a water sprinkler sprays in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/kx6Rj4MDIAw_30.wav",
+        "captions": "A cuckoo bird coos followed by a train running on railroad tracks as a bell dings in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/gwQMkQmBITE_80.wav",
+        "captions": "A man talking followed by several lights scrapping on a wooden surface as wood clanks in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/CvNAwby6Xos_220.wav",
+        "captions": "A sewing machine operating several times followed by gears cranking as a man is talking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/SZ6CcXINiiE_0.wav",
+        "captions": "A man speaks followed by a loud bursts and then laughter"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/lh801oHGtD4_30.wav",
+        "captions": "A man talking as an electronic device hums followed by a door closing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/1WTSW96XP6E_180.wav",
+        "captions": "A man speaks followed by several clicks then an engine struggling to start"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/PLHXGDnig4M_3.wav",
+        "captions": "A man talking then meowing and hissing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/7P0N61TVOxE_150.wav",
+        "captions": "A band plays horn and string instruments while waves crash nearby"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/ific_gRalg0_30.wav",
+        "captions": "A series of loud metal hammering as liquid drains down a pipe followed by a metal chain rattling"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/6aWnK1GyeJY_30.wav",
+        "captions": "A baby is crying and a person sneezes then another person speaks"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/9_YfTz8cnFY_40.wav",
+        "captions": "Steam hissing followed by a train whistle blowing and a group of people talking in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/2JV3emH50XU_0.wav",
+        "captions": "A vehicle accelerating then driving by as gusts of wind blow and leaves rustle in the distance"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Q0anPAIkfBE_60.wav",
+        "captions": "A baby sobs and then a woman speaks followed a woman laughing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/_AcJVyToQUQ_60.wav",
+        "captions": "Laughter and a female speaking and then a male vocalizing a sneezing sound"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/HdPSebdDxe4_90.wav",
+        "captions": "A male speaking and then growling followed by more male speaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/EYTz1LPDHsc_30.wav",
+        "captions": "A car door opening as a crow caws and birds chirp followed by a vehicle driving by in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/rvDcg9DoNKA_380.wav",
+        "captions": "Distant thunder with rain falling followed by a man speaking loudly"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/0rSETXszQM0_100.wav",
+        "captions": "Plastic clacking followed by a motorbike and a motorcycle engine starting up then accelerating"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/DrCm-HpX67k_180.wav",
+        "captions": "Opening and closing followed by tapping"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/4CAMv5nlr-0_30.wav",
+        "captions": "A man speaking followed by a crowd of people applauding and cheering"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/6NBPiArs2-w_80.wav",
+        "captions": "Footsteps followed by rapid gunshots and people speaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/S8k47ME-YT4_100.wav",
+        "captions": "Plastic cranking as rain heavily pours while a stream of water rapidly flows"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Smdj6JFB9MQ_350.wav",
+        "captions": "Female speech, a toilet flushing and then more speech"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/ENTi8Sn4vdM_20.wav",
+        "captions": "A river stream flowing while a woman and a kid are talking as birds chirp in the background"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/1Og2TJ3bXW0_20.wav",
+        "captions": "An aircraft engine humming followed by plastic clanking then an aircraft engine slowing down"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/xBZnvfniA1c_30.wav",
+        "captions": "A man speaks, and a child speaks followed by laughter"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/KVbmN9ZRg5Q_220.wav",
+        "captions": "Loud hissing followed by a loud continuous horn and brief clanking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/r2KhpX_QgXA_230.wav",
+        "captions": "A man speaks as a machine hums quietly and then increases in volume"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/9xoYx3lTJ9I_5.wav",
+        "captions": "Wind noise while a water vehicle is traveling across water, and a man talks"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/lgwpIImXCWA_180.wav",
+        "captions": "A man briefly speaks followed by a sawing sound, and then starts talking again"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/jjHIINDfE1c_20.wav",
+        "captions": "A tractor driving by as a car horn honks while wind blows into a microphone"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/2JutOgAnqWA_120.wav",
+        "captions": "A tool motor is running, a rattling sound occurs, then humming also, then soft squealing occurs"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/JZloTOdIY_c_30.wav",
+        "captions": "Horses neighing and snorting while trotting on grass"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/kagkXkAVPNo_40.wav",
+        "captions": "An engine revving followed by a loud honk, then several other honks and a woman talking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/TWOgvDaDqlU_200.wav",
+        "captions": "A power tool drilling followed by a large motor running as wood is being sawed"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/gbi6MxPf3hA_30.wav",
+        "captions": "Winds and ocean waves crashing while a chime instrument briefly plays a melody"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/3qrVku794u0_12.wav",
+        "captions": "A man speaks followed by a beep and a child speaks"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/lX3k5p2I_g0_140.wav",
+        "captions": "Man talking in the wind and someone yells in the background while an engine makes squealing and air puffing sounds"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/WqXFAY4k79s_230.wav",
+        "captions": "Several loud pops followed by one woman laughing and another speaking"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/riM7b5bJ9KQ_60.wav",
+        "captions": "A man laughs followed by laughter and speech from other people"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/nU-AI3Cmc3M_30.wav",
+        "captions": "A pigeon cooing followed by bird wings flapping as wind blows into a microphone"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/puZL08fzpXk_4.wav",
+        "captions": "Gunshots followed by people speaking and explosions"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Rtenf2XSXRc_5.wav",
+        "captions": "A vehicle engine running idle then revving several times before a car door slams shut"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/YIqpIjjee00_30.wav",
+        "captions": "A flush occurs with water splashing and gurgling, and then water runs steadily"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/F-47fRplQEc_6.wav",
+        "captions": "Different female voices speaking followed by sheep bleating from a distance and voices of young people shortly thereafter"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Wq4OD3olO2w_90.wav",
+        "captions": "A man talks followed by laughter, and a woman and children communicate"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/6Pywt0f_NFY_160.wav",
+        "captions": "Water trickling as a machine hums in the background followed by water spraying"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/XPebkNzsnRI_10.wav",
+        "captions": "Whistling followed by a child giggling and then Moe whistling"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/Bvw2gv1fcZw_70.wav",
+        "captions": "A person speaks followed by a burping sound and laughter"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/paf0nyjg1Js_110.wav",
+        "captions": "A woman talking followed by a plate rattling as food and oil sizzle"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/FR7BDRhMATo_310.wav",
+        "captions": "A train running on railroad tracks as a train horn whistle blows several times while railroad crossing warning signals are ringing"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/S0YE96w0YRk_120.wav",
+        "captions": "A man speaking followed by a crowd of people laughing then applauding"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/VE6Ku0-ucUM_30.wav",
+        "captions": "A man speaks followed by a popping noise and laughter"
+    },
+    {
+        "dataset": "audiocaps",
+        "location": "/data/deep/audioset/data/bhlhcGONisM_130.wav",
+        "captions": "A man speaks followed by thumps and clicks with some faint grunts"
+    }
+]
