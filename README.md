@@ -1,4 +1,3 @@
-# tryagin
 ## Repository Overview
 We provide an example of how you can Aligning Text-to-Audio Model with any of your specific preferences using Baton. And we are releasing our implementation of finetuning one of the SOTA text-to-audio model [Tango](https://github.com/declare-lab/tango), while supporting imporve more T2A models or other audio generation models.
 
@@ -27,7 +26,7 @@ We provide an example of how you can Aligning Text-to-Audio Model with any of yo
             * `models.py`: move and replace origin one
 
 
-## Quick Started
+## Quick Start
 We provide an example of how you can Aligning Text-to-Audio Model with any of your specific preferences using Baton. And we take one of the SOTA text-to-audio model [Tango](https://github.com/declare-lab/tango) as example.
 
 
