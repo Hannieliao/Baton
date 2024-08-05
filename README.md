@@ -14,7 +14,8 @@ Secondly, we introduced a reward model using the constructed dataset, which can 
 - [x] 🔥 Release demo page!
 - [x] 🔥 Release human perfence dataset!
 - [ ] Release Reward model training code
-- [ ] Release finetuning code based on tango and AudioLDM
+- [ ] Release finetuning code based on tango
+- [ ] Release finetuning code based on AudioLDM
 
 ## Repository Overview
 We provide an example of how you can Aligning Text-to-Audio Model with any of your specific preferences using Baton. And we are releasing our implementation of finetuning one of the SOTA text-to-audio model [Tango](https://github.com/declare-lab/tango), while supporting imporve more T2A models or other audio generation models.
