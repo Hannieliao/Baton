@@ -155,7 +155,7 @@ python clap.py \
 ```
 
 ## Acknowledgement
-☀️ We are truly indebted to the following outstanding open source work upon which we have based our work: [Tango](https://github.com/declare-lab/tango), [AudioLDM](https://github.com/haoheliu/AudioLDM-training-finetuning), and [audiocraft.metric]([https://github.com/NVlabs/nvdiffrast](https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/metrics/index.html)).
+☀️ We are truly indebted to the following outstanding open source work upon which we have based our work: [Tango](https://github.com/declare-lab/tango), [AudioLDM](https://github.com/haoheliu/AudioLDM-training-finetuning), and [audiocraft.metric](https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/metrics/index.html).
 
 ## Citation
 
