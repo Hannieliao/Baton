@@ -1,3 +1,21 @@
+# BATON: Aligning Text-to-Audio Model with Human Preference Feedback
+
+<a href="https://arxiv.org/abs/2402.00744"><img src="https://img.shields.io/badge/ArXiv-2402.00744-brightgreen"></a> 
+<a href="https://baton2024.github.io/"><img src="https://img.shields.io/badge/Demo-BATON-purple"></a>
+<a href="https://drive.google.com/drive/folders/1dzsvxn6XLcqhi19n2kzk1jzD1ZnlbM4T?usp=sharing"><img src="https://img.shields.io/badge/Dataset-Prefernce-blue"></a>
+
+With the development of AI-Generated Content (AIGC), text-to-audio models are gaining widespread attention. However, it is challenging for these models to generate audio aligned with human preference due to the inherent information density of natural language and limited model understanding ability. To alleviate this issue, we formulate the **BATON**, **the first framework specifically designed to enhance the alignment between generated audio and text prompt using human preference feedback**. Our BATON comprises three key stages: Firstly, we curated a dataset containing both prompts and the corresponding generated audio, which was then annotated based on human feedback. 
+Secondly, we introduced a reward model using the constructed dataset, which can mimic human preference by assigning rewards to input text-audio pairs. Finally, we employed the reward model to fine-tune an off-the-shelf text-to-audio model. The experiment results demonstrate that our BATON can significantly improve the generation quality of the original text-to-audio models, concerning audio integrity, temporal relationship, and alignment with human preference.
+
+![Example Image](assets/pipeline.png)
+
+## Todo List
+- [x] 🔥 Release on arxiv!
+- [x] 🔥 Release demo page!
+- [x] 🔥 Release human perfence dataset!
+- [ ] Release Reward model training code
+- [ ] Release finetuning code based on tango and AudioLDM
+
 ## Repository Overview
 We provide an example of how you can Aligning Text-to-Audio Model with any of your specific preferences using Baton. And we are releasing our implementation of finetuning one of the SOTA text-to-audio model [Tango](https://github.com/declare-lab/tango), while supporting imporve more T2A models or other audio generation models.
 
