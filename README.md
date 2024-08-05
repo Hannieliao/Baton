@@ -154,6 +154,20 @@ python clap.py \
 --output_json clap_1709389247_1709334661_epoch_10.json
 ```
 
+## Acknowledgement
+☀️ We are truly indebted to the following outstanding open source work upon which we have based our work: [Tango](https://github.com/declare-lab/tango), [AudioLDM](https://github.com/haoheliu/AudioLDM-training-finetuning), and [audiocraft.metric]([https://github.com/NVlabs/nvdiffrast](https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/metrics/index.html)).
+
+## Citation
+
+```
+@article{liao2024baton,
+  title={BATON: Aligning Text-to-Audio Model with Human Preference Feedback},
+  author={Liao, Huan and Han, Haonan and Yang, Kai and Du, Tianjiao and Yang, Rui and Xu, Zunnan and Xu, Qinmei and Liu, Jingquan and Lu, Jiasheng and Li, Xiu},
+  journal={arXiv preprint arXiv:2402.00744},
+  year={2024}
+}
+```
+
 
 
 
