@@ -94,7 +94,7 @@ return loss1, loss2
 
 #### Dataset
 ```python
-python ./bat/src/data/dataset_make.py # For human and reward model score
+python ./Baton/src/data/dataset_make.py # For human and reward model score
 ```
 
 #### Settings for Multi-GPU
@@ -129,12 +129,12 @@ bash ./scripts/inference_finetune.sh
 ```
 
 ## Evaluation
-Copy your inference result from 'bat/src/t2amodel/tango/output' to '/home/hhn/bat/src/eval/output'
+Copy your inference result from 'Baton/src/t2amodel/tango/output' to 'Baton/src/eval/output'
 
 - Caculate FAD, FD, IS, KL
 
 ```python
-cd bat/src/eval
+cd Baton/src/eval
 python metric_caculate.py # 
 ```
 - Caculate CLAP consistency
