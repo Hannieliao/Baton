@@ -73,7 +73,7 @@ We will release our implementation based on one of the SOTA T2A model [Tango](ht
 ```python
 cd RM
 python RM_train_2label_BCE.py # For Integrity task
-python RM_train_3label_BCE.py # For Temporal task
+python RM_train_3label_BCE.py # For Temporal task, you can change the line72, 87, 103 of "RM_train_2label_BCE.py"
 ```
 
 **Using Reward Model for Annotation**
