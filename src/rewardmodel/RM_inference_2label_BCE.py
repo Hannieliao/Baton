@@ -53,7 +53,7 @@ class RewardModel(torch.nn.Module):
         x = self.sigmoid(x)
         return x
 
-AUDIO_FOLDER_PATH = 'Baton/data/Audio/2label_Integrity_RD_Audio'
+AUDIO_FOLDER_PATH = 'Baton/data/Audio/2label_Integrity_RD_Audio' # For temporal task, you can chage it to "3label_Temporal_RD_Audio"
 audio_files = [os.path.join(AUDIO_FOLDER_PATH, f) for f in os.listdir(AUDIO_FOLDER_PATH) if f.endswith('.wav')]
 
 encode_model = laion_clap.CLAP_Module(enable_fusion=False, device='cuda:0')
@@ -77,6 +77,6 @@ with torch.no_grad():
             result = {"audio": audio_file[i], "pre_score": predictions[i][0]}
             results.append(result)
 
-output_json_path = '2label_RA.json'
+output_json_path = '2label_RA.json' # # For temporal task, you can chage it to "3label_RA.json"
 with open(output_json_path, 'w') as json_file:
     json.dump(results, json_file, indent=4)
