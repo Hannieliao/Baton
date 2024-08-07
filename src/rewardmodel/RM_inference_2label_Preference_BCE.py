@@ -105,11 +105,11 @@ def inference(audio_file):
     return predictions
 
 model = RewardModel().to(device)
-checkpoint = torch.load("rm_ckpt_CLAP_BCE_2label_Preference/model_weights_epoch80.pth")
+checkpoint = torch.load("rm_ckpt_CLAP_BCE_2label_Preference/model_weights_epoch50.pth") # Replace your checkpoint path
 model.load_state_dict(checkpoint['rewardmodel_state_dict'])
 
 # Usage example
-audio_file_path = "../Audio/2label_Temporal_RD_Audio"
+audio_file_path = "Baton/data/Audio/2label_Temporal_RD_Audio"
 audio_files = [os.path.join(audio_file_path, f) for f in os.listdir(audio_file_path) if f.endswith('.wav')] #["path_to_audio1.wav", "path_to_audio2.wav", ...]
 results = []
 
