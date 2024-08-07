@@ -34,9 +34,7 @@ We provide an example of how you can Aligning Text-to-Audio Model with any of yo
 * `src`: Source code
     * `rewardmodel`: Reward model definitions
         * `RM_inference_2label_BCE.py`: Inference using reward model
-        * `RM_inference_2label_Preference_BCE.py`: Inference using reward model
         * `RM_train_2label_BCE.py`: Train reward model using preference annotation
-        * `RM_train_2label_Preference_BCE.py`: Train reward model using absolute annotation
     * `t2amodel`: T2A model(Coming soon)
         * `Tango-master(example)`: Any text-to-audio model
             * `finetune.py`: move under this path
