@@ -69,7 +69,7 @@ class RewardModel(nn.Module):
         x = self.sigmoid(x)
         return x
 
-AUDIO_FOLDER_PATH = 'Baton/data/Audio/2label_Integrity_HD_Audio'
+AUDIO_FOLDER_PATH = 'Baton/data/Audio/2label_Integrity_HD_Audio' # For temporal task, you can change it to "3label_Temporal_HD_Audio"
 audio_files = [os.path.join(AUDIO_FOLDER_PATH, f) for f in os.listdir(AUDIO_FOLDER_PATH) if f.endswith('.wav')] #["path_to_audio1.wav", "path_to_audio2.wav", ...]
 
 # CLAP
@@ -84,7 +84,7 @@ def float32_to_int16(x):
 encode_model = laion_clap.CLAP_Module(enable_fusion=False, device=device)
 encode_model.load_ckpt()
 
-with open("Baton/data/RM/grouped_ratings_2label.json", "r") as f:
+with open("Baton/data/RM/grouped_ratings_2label.json", "r") as f: # For temporal task, you can change it to "grouped_ratings_3label.json"
     data = json.load(f)
 
 
@@ -100,7 +100,7 @@ optimizer = optim.Adam(rewardmodel.parameters(), lr=0.01, weight_decay=1e-5)
 EPOCHS = 51
 
 # checkpoint save path
-checkpoint_folder = 'rm_ckpt_CLAP_BCE_2label'
+checkpoint_folder = 'rm_ckpt_CLAP_BCE_2label' # For temporal task, you can change it to "rm_ckpt_CLAP_BCE_3label"
 os.makedirs(checkpoint_folder, exist_ok=True)
 
 average_losses_per_epoch = []
