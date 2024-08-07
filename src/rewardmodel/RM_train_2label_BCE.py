@@ -40,12 +40,12 @@ class AudioDataset(Dataset):
         
         result = 0.5
 
-        # 记录人类评分
+        # Load human preference
         for key, value in self.data["grouped_ratings"].items():
             for key2, value2 in value.items():
                 if audio_file.split("/")[-1] == key2:
                     result = value2
-                    break  # 找到匹配后跳出内层循环
+                    break
             else:
                 continue
             break
@@ -69,12 +69,11 @@ class RewardModel(nn.Module):
         x = self.sigmoid(x)
         return x
 
-# 生成的音频文件列表和对应的评分列表
-AUDIO_FOLDER_PATH = '/home/hhn/bat/data/Audio/2label_Integrity_HD_Audio' # 替换为你生成的音频的文件夹路径
+AUDIO_FOLDER_PATH = 'Baton/data/Audio/2label_Integrity_HD_Audio'
 audio_files = [os.path.join(AUDIO_FOLDER_PATH, f) for f in os.listdir(AUDIO_FOLDER_PATH) if f.endswith('.wav')] #["path_to_audio1.wav", "path_to_audio2.wav", ...]
 
-# 音频/文本编码模型准备-CLAP
-# # quantization
+# CLAP
+# quantization
 def int16_to_float32(x):
     return (x / 32767.0).astype(np.float32)
 
@@ -88,10 +87,9 @@ encode_model.load_ckpt()
 with open("grouped_ratings_2label.json", "r") as f:
     data = json.load(f)
 
-# 创建 Dataset 实例
+
 audio_dataset = AudioDataset(audio_files, encode_model, data)
 
-# 创建 DataLoader 实例
 batch_size = 32
 data_loader = DataLoader(audio_dataset, batch_size=batch_size, shuffle=True)
 
@@ -101,13 +99,12 @@ criterion = nn.BCELoss()
 optimizer = optim.Adam(rewardmodel.parameters(), lr=0.01, weight_decay=1e-5)
 EPOCHS = 51
 
-# 指定权重文件夹路径
+# checkpoint save path
 checkpoint_folder = 'rm_ckpt_CLAP_BCE_2label'
 os.makedirs(checkpoint_folder, exist_ok=True)
 
 average_losses_per_epoch = []
 
-# 在训练循环中使用 DataLoader
 for epoch in range(EPOCHS):
     losses = 0
     for feature, label in data_loader:
@@ -128,7 +125,7 @@ for epoch in range(EPOCHS):
             'optimizer_state_dict': optimizer.state_dict(),
             'loss': average_loss,
         }
-        # 保存模型权重和优化器状态
+        # save
         checkpoint_path = os.path.join(checkpoint_folder, f'model_weights_epoch{epoch}.pth')
         torch.save(checkpoint, checkpoint_path)
     
