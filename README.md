@@ -80,7 +80,7 @@ python RM_train_3label_BCE.py # For Temporal task, you can change the line72, 87
 ```python
 cd RM
 python RM_inference_2label_BCE.py # For Integrity task
-python RM_inference_3label_BCE.py # For Temporal task
+python RM_inference_3label_BCE.py # For Temporal task, you can change the line56, 66,80 of "RM_inference_2label_BCE.py"
 ```
 
 ## Acknowledgement
