@@ -7,7 +7,6 @@ from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 import laion_clap
 
-# 需要使用和训练时相同的数据处理和特征提取函数
 def int16_to_float32(x):
     return (x / 32767.0).astype(np.float32)
 
@@ -39,7 +38,6 @@ class AudioDataset:
         feature_concat = torch.cat((audio_feature, text_feature), dim=1)
         return feature_concat, audio_file
 
-# 定义模型和加载权重
 class RewardModel(torch.nn.Module):
     def __init__(self):
         super(RewardModel, self).__init__()
@@ -55,8 +53,7 @@ class RewardModel(torch.nn.Module):
         x = self.sigmoid(x)
         return x
 
-# 创建 Dataset 和 DataLoader 实例
-AUDIO_FOLDER_PATH = '/home/hhn/bat/data/Audio/2label_Integrity_RD_Audio' # 替换为待评分数据集
+AUDIO_FOLDER_PATH = 'Baton/data/Audio/2label_Integrity_RD_Audio'
 audio_files = [os.path.join(AUDIO_FOLDER_PATH, f) for f in os.listdir(AUDIO_FOLDER_PATH) if f.endswith('.wav')]
 
 encode_model = laion_clap.CLAP_Module(enable_fusion=False, device='cuda:0')
@@ -65,13 +62,11 @@ encode_model.load_ckpt()
 audio_dataset = AudioDataset(audio_files, encode_model)
 data_loader = DataLoader(audio_dataset, batch_size=16, shuffle=False)
 
-# 创建模型实例并加载预训练权重
 reward_model = RewardModel().to('cuda:0')
-checkpoint = torch.load('rm_ckpt_CLAP_BCE_2label/model_weights_epoch50.pth')
+checkpoint = torch.load('rm_ckpt_CLAP_BCE_2label/model_weights_epoch50.pth') # Replace your checkpoint path
 reward_model.load_state_dict(checkpoint['rewardmodel_state_dict'])
 reward_model.eval()
 
-# 推理
 results = []
 with torch.no_grad():
     for batch_idx, (feature, audio_file) in enumerate(data_loader):
@@ -82,7 +77,6 @@ with torch.no_grad():
             result = {"audio": audio_file[i], "pre_score": predictions[i][0]}
             results.append(result)
 
-# 将结果保存为 JSON 文件
 output_json_path = '2label_RA.json'
 with open(output_json_path, 'w') as json_file:
     json.dump(results, json_file, indent=4)
