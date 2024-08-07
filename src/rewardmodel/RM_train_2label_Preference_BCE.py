@@ -87,7 +87,7 @@ class RewardModel(nn.Module):
         x = self.sigmoid(x)
         return x
 
-# 真值音频排序
+# human feedback data
 with open("grouped_ratings.json", "r") as f:
     data = json.load(f)
     
