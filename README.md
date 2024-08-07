@@ -13,7 +13,7 @@ Secondly, we introduced a reward model using the constructed dataset, which can 
 - [x] 🔥 Release on arxiv!
 - [x] 🔥 Release demo page!
 - [x] 🔥 Release human perfence dataset!
-- [x] Release reward model training/inference code & checkpoint
+- [x] Release reward model training/inference code
 - [ ] Release finetuning code based on tango
 
 ## Repository Overview
@@ -32,13 +32,12 @@ We provide an example of how you can Aligning Text-to-Audio Model with any of yo
     * `finetune.sh`: Fine-tuning t2a Model
     * `inference_finetune.sh`: Inference using t2a model after fine-tuning
 * `src`: Source code
-    * `eval`: Quantitative evaluation (FAD/FD/IS/KL/CLAP)
     * `rewardmodel`: Reward model definitions
         * `RM_inference_2label_BCE.py`: Inference using reward model
         * `RM_inference_2label_Preference_BCE.py`: Inference using reward model
         * `RM_train_2label_BCE.py`: Train reward model using preference annotation
         * `RM_train_2label_Preference_BCE.py`: Train reward model using absolute annotation
-    * `t2amodel`: T2A model
+    * `t2amodel`: T2A model(Coming soon)
         * `Tango-master(example)`: Any text-to-audio model
             * `finetune.py`: move under this path
             * `models.py`: move and replace origin one
@@ -70,42 +69,6 @@ For **Temporal** task, Download:
 
 We are releasing our implementation based on one of the SOTA T2A model [Tango](https://github.com/declare-lab/tango), based on the checkpoint [Tango-Full-FT-AudioCaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps). 
 
-#### Preparation
-
-```bash
-cd src/rewardmodel
-git clone https://github.com/declare-lab/tango.git
-cd tango
-mkdir ckpt
-download checkpoint [Tango-Full-FT-AudioCaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps) and put it under ckpt
-```
-
-```bash
-put 'finetune.py' under ./tango
-modify the 'models.py' line 207
-from:
-   loss = loss.mean()
-to:
-   loss1 = loss
-   loss2 = loss.mean
-return loss1, loss2 
-```
-
-#### Dataset
-```python
-python ./Baton/src/data/dataset_make.py # For human and reward model score
-```
-
-#### Settings for Multi-GPU
-```bash
-accelerate config
-```
-
-#### Fine-tuning
-```bash
-bash ./scripts/finetune.sh
-```
-
 ### Reward Model Training and Annotating
 
 **Train Reward Model**
@@ -120,37 +83,6 @@ python RM_train_3label_BCE.py # For Temporal task
 cd RM
 python RM_inference_2label_BCE.py # For Integrity task
 python RM_inference_3label_BCE.py # For Temporal task
-```
-
-### Inference Using After-Fine-tuning T2A Model
-```bash
-bash ./scripts/inference_finetune.sh
-```
-
-## Evaluation
-Copy your inference result from 'Baton/src/t2amodel/tango/output' to 'Baton/src/eval/output'
-
-- Caculate FAD, FD, IS, KL
-
-```python
-cd Baton/src/eval
-python metric_caculate.py # 
-```
-- Caculate CLAP consistency
-
-To compute the clap_consistency, we call the api from [Audiocraft](https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/metrics/clap_consistency.html). 
-
-```bash
-git clone https://github.com/facebookresearch/audiocraft.git
-```
-Then put 'clap_caculate.py' under audiocraft/audiocraft
-
-```python
-python clap.py \
---model_path /home/audiotest/tango-master/ckpt/630k-audioset-fusion-best.pt \
---model_arch HTSAT-tiny \
---audio_folder /home/audiotest/tango-master/outputs/1709389247_home_audiotest_tango-master_saved_1709334661_epoch_10_steps_200_guidance_3.0/rank_1 \
---output_json clap_1709389247_1709334661_epoch_10.json
 ```
 
 ## Acknowledgement
