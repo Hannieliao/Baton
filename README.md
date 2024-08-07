@@ -67,7 +67,7 @@ For **Temporal** task, Download:
 
 ### Fine-tuning T2A Model
 
-We are releasing our implementation based on one of the SOTA T2A model [Tango](https://github.com/declare-lab/tango), based on the checkpoint [Tango-Full-FT-AudioCaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps). 
+We will release our implementation based on one of the SOTA T2A model [Tango](https://github.com/declare-lab/tango), based on the checkpoint [Tango-Full-FT-AudioCaps](https://huggingface.co/declare-lab/tango-full-ft-audiocaps). 
 
 ### Reward Model Training and Annotating
 
