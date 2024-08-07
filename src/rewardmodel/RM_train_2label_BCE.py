@@ -84,7 +84,7 @@ def float32_to_int16(x):
 encode_model = laion_clap.CLAP_Module(enable_fusion=False, device=device)
 encode_model.load_ckpt()
 
-with open("grouped_ratings_2label.json", "r") as f:
+with open("Baton/data/RM/grouped_ratings_2label.json", "r") as f:
     data = json.load(f)
 
 
