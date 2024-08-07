@@ -13,7 +13,7 @@ Secondly, we introduced a reward model using the constructed dataset, which can 
 - [x] 🔥 Release on arxiv!
 - [x] 🔥 Release demo page!
 - [x] 🔥 Release human perfence dataset!
-- [x] Release reward model training/inference code
+- [x] 🔥 Release reward model training/inference code
 - [ ] Release finetuning code based on tango
 
 ## Repository Overview
