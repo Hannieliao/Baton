@@ -89,10 +89,10 @@ python RM_inference_3label_BCE.py # For Temporal task, you can change the line56
 ## Citation
 
 ```
-@article{liao2024baton,
-  title={BATON: Aligning Text-to-Audio Model with Human Preference Feedback},
-  author={Liao, Huan and Han, Haonan and Yang, Kai and Du, Tianjiao and Yang, Rui and Xu, Zunnan and Xu, Qinmei and Liu, Jingquan and Lu, Jiasheng and Li, Xiu},
-  journal={arXiv preprint arXiv:2402.00744},
+@inproceedings{liao2024baton,
+  title={BATON: Aligning Text-to-Audio Model Using Human Preference Feedback},
+  author={Liao, Huan and Han, Haonan and Yang, Kai and Du, Tianjiao and Yang, Rui and Xu, Qinmei and Xu, Zunnan and Liu, Jingquan and Lu, Jiasheng and Li, Xiu},
+  booktitle={IJCAI},
   year={2024}
 }
 ```
